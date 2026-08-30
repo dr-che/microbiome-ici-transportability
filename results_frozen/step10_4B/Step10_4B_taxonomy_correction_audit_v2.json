@@ -1,0 +1,11 @@
+{
+  "source": "Step10_4B_results_v1.zip::assembled_species_matrix.tsv",
+  "v1_total_feature_columns": 4405,
+  "v1_species_marker_columns": 2205,
+  "v1_higher_rank_columns_excluded": 2200,
+  "v1_other_columns_excluded": 0,
+  "canonical_species_after_collapse": 2205,
+  "duplicate_canonical_species_groups_collapsed": 0,
+  "sample_n": 363,
+  "correction_rule": "Retain only v1 columns derived from raw s_ or s__ species rows; exclude all k_/p_/c_/o_/f_/g_ hierarchy rows; remove duplicated s_ prefix; renormalize species abundances within sample."
+}

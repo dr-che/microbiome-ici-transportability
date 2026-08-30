@@ -1,0 +1,21 @@
+name: debiasm-melanoma-audit
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10.13
+  - pip=24.0
+  - numpy=1.26.4
+  - pandas=2.1.4
+  - scipy=1.11.4
+  - scikit-learn=1.3.2
+  - pytorch=2.0.1
+  - cpuonly
+  - pip:
+      - pytorch-lightning==1.9.5
+      - torchmetrics==0.11.4
+      - lightning-bolts==0.7.0
+      - DEBIAS-M==0.0.2
+# Candidate compatibility environment only.
+# It is not part of the frozen primary Python 3.12 / NumPy 2.2.6 environment.
+# Do not run the scientific benchmark until Analysis7_environment_smoke_test.py passes.

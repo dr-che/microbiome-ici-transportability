@@ -1,0 +1,158 @@
+{
+  "step": "Step10.5B",
+  "version": "v1",
+  "status": "PASS_STEP10_5B_COMPLETED",
+  "input": "Step10_4B_results_v2_species_only.zip / assembled_species_matrix.tsv",
+  "primary_n": 363,
+  "species_features": 2205,
+  "primary_domains": 9,
+  "primary_directed_pairs": 72,
+  "models": [
+    "elastic_net",
+    "ridge",
+    "random_forest"
+  ],
+  "scenarios": [
+    "PRIMARY",
+    "S1_EXCLUDE_BCN12",
+    "S2_BCN12_AS_NR",
+    "S3_EXCLUDE_LEE_SITES"
+  ],
+  "locked_hyperparameters": {
+    "elastic_net": {
+      "C": 0.2,
+      "l1_ratio": 0.75
+    },
+    "ridge": {
+      "C": 0.5
+    },
+    "random_forest": {
+      "max_features": "sqrt",
+      "min_samples_leaf": 5
+    }
+  },
+  "ecological_distances": [
+    "aitchison_centroid_distance",
+    "bray_curtis_centroid_distance",
+    "jensen_shannon_distance",
+    "prevalence_l1_distance"
+  ],
+  "qap_iterations": 10000,
+  "auc_bootstrap_iterations_per_pair": 500,
+  "primary_elastic_net_qap": [
+    {
+      "scenario": "PRIMARY",
+      "model": "elastic_net",
+      "predictor": "aitchison_centroid_distance",
+      "statistic_type": "spearman_rho",
+      "prespecified_direction": "negative",
+      "observed_statistic": -0.1076603929138409,
+      "qap_p_two_sided": 0.38076192380761925,
+      "qap_p_prespecified_direction": 0.18868113188681132,
+      "permutations": 10000
+    },
+    {
+      "scenario": "PRIMARY",
+      "model": "elastic_net",
+      "predictor": "bray_curtis_centroid_distance",
+      "statistic_type": "spearman_rho",
+      "prespecified_direction": "negative",
+      "observed_statistic": 0.0022194703050657373,
+      "qap_p_two_sided": 0.9867013298670133,
+      "qap_p_prespecified_direction": 0.48075192480751927,
+      "permutations": 10000
+    },
+    {
+      "scenario": "PRIMARY",
+      "model": "elastic_net",
+      "predictor": "jensen_shannon_distance",
+      "statistic_type": "spearman_rho",
+      "prespecified_direction": "negative",
+      "observed_statistic": -0.009231709819621256,
+      "qap_p_two_sided": 0.9422057794220577,
+      "qap_p_prespecified_direction": 0.43565643435656437,
+      "permutations": 10000
+    },
+    {
+      "scenario": "PRIMARY",
+      "model": "elastic_net",
+      "predictor": "prevalence_l1_distance",
+      "statistic_type": "spearman_rho",
+      "prespecified_direction": "negative",
+      "observed_statistic": -0.12213519925122615,
+      "qap_p_two_sided": 0.34406559344065596,
+      "qap_p_prespecified_direction": 0.17248275172482752,
+      "permutations": 10000
+    },
+    {
+      "scenario": "PRIMARY",
+      "model": "elastic_net",
+      "predictor": "same_study_family",
+      "statistic_type": "mean_auc_relation_1_minus_0",
+      "prespecified_direction": "positive",
+      "observed_statistic": 0.03566913535592753,
+      "qap_p_two_sided": 0.35776422357764226,
+      "qap_p_prespecified_direction": 0.17688231176882313,
+      "permutations": 10000
+    },
+    {
+      "scenario": "PRIMARY",
+      "model": "elastic_net",
+      "predictor": "same_country",
+      "statistic_type": "mean_auc_relation_1_minus_0",
+      "prespecified_direction": "positive",
+      "observed_statistic": 0.03078107845322242,
+      "qap_p_two_sided": 0.4036596340365963,
+      "qap_p_prespecified_direction": 0.19568043195680432,
+      "permutations": 10000
+    },
+    {
+      "scenario": "PRIMARY",
+      "model": "elastic_net",
+      "predictor": "same_macro_region",
+      "statistic_type": "mean_auc_relation_1_minus_0",
+      "prespecified_direction": "positive",
+      "observed_statistic": 0.045380851143095036,
+      "qap_p_two_sided": 0.142985701429857,
+      "qap_p_prespecified_direction": 0.09419058094190581,
+      "permutations": 10000
+    },
+    {
+      "scenario": "PRIMARY",
+      "model": "elastic_net",
+      "predictor": "same_treatment_scope_group",
+      "statistic_type": "mean_auc_relation_1_minus_0",
+      "prespecified_direction": "positive",
+      "observed_statistic": -0.0061385417559394195,
+      "qap_p_two_sided": 0.8068193180681932,
+      "qap_p_prespecified_direction": 0.5766423357664233,
+      "permutations": 10000
+    }
+  ],
+  "primary_elastic_net_mrqap_diagnostics": {
+    "n_domains": 9,
+    "n_directed_pairs": 72,
+    "r_squared": 0.06607015804694749,
+    "design_condition_number": 3.146060820613951,
+    "predictors": [
+      "aitchison_centroid_distance",
+      "same_study_family",
+      "same_country",
+      "same_treatment_scope_group",
+      "absolute_response_rate_difference",
+      "log_train_n",
+      "log_test_n"
+    ],
+    "interpretation": "Exploratory multiple-regression QAP; only nine domains. Coefficients must not be treated as causal effects."
+  },
+  "treatment_analysis": "Exploratory, coarse domain-level treatment categories only; unknown combination proportions were not imputed.",
+  "leakage_controls": [
+    "Every directed model was trained on one domain only.",
+    "Feature filtering, pseudocount, CLR and scaling were learned only from the training domain.",
+    "The test domain never contributed to preprocessing or model fitting.",
+    "Ecological distances were response-blind and used only for post-model transferability analysis.",
+    "QAP/MRQAP permutation respected dyadic dependence among domain pairs."
+  ],
+  "runtime_seconds": 542.46,
+  "interpretation_gate": "REQUIRES_SCIENTIFIC_AUDIT_BEFORE_MANUSCRIPT_CLAIMS"
+}

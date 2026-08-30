@@ -1,0 +1,8 @@
+component	frozen_primary_repository	current_runtime	official_DEBIASM_requirement	compatibility_assessment	required_action
+Python	3.12	3.13.5	>3.6	Current runtime not selected for DEBIAS-M benchmark	Create isolated Python 3.10 environment
+NumPy	2.2.6	2.3.5	<=1.26.4	Direct conflict with frozen primary environment	Use isolated environment with NumPy 1.26.4
+scikit-learn	1.6.1	1.8.0	Unpinned	Potential API drift	Pin candidate legacy-compatible version and smoke-test
+PyTorch	Not required	2.10.0+cpu	Unpinned	Current version is much newer than package source	Pin in isolated environment
+PyTorch Lightning	Not required	2.6.5	>1.6 without upper bound	Incompatible: source implements validation_epoch_end removed in Lightning 2.0	Pin 1.9.x and verify synthetic training
+Lightning Bolts	Not required	Absent	>0.4.0	Missing	Install compatible pinned version in isolated environment
+DEBIAS-M	Not installed	Absent	0.0.2 source distribution	Benchmark not executable in current runtime	Acquire official sdist, verify SHA-256, install in isolated environment

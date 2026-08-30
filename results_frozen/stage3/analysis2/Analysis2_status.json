@@ -1,0 +1,39 @@
+{
+  "analysis": "Analysis 2 reciprocal directional asymmetry domain-preserving null",
+  "matrix": "/mnt/data/melanoma_transportability_review/repo_v1/melanoma_microbiome_transportability/data/derived/assembled_species_matrix.tsv",
+  "matrix_sha256": "fb520df3b2d65c4f41eb1f03eb3260ac0a79d3172d519f689d22c95f527f3e2c",
+  "n": 363,
+  "responders": 217,
+  "domains": [
+    "Frankel_US",
+    "Gopalakrishnan_US",
+    "Lee_Barcelona",
+    "Lee_Leeds",
+    "Lee_Manchester",
+    "Lee_PRIMM_NL",
+    "Lee_PRIMM_UK",
+    "Matson_US",
+    "Spencer_US"
+  ],
+  "features": 2205,
+  "permutations": 2000,
+  "jobs": 8,
+  "model": {
+    "type": "elastic_net",
+    "C": 0.2,
+    "l1_ratio": 0.75,
+    "class_weight": "balanced",
+    "max_features": 500
+  },
+  "permutation": "response labels shuffled separately within each domain; prevalence preserved",
+  "preprocessing": "source-only prevalence filtering, pseudocount, CLR, variance ranking, centering and scaling; label-independent preprocessing cached exactly across permutations",
+  "observed": {
+    "index": 0,
+    "mean_abs_asymmetry": 0.13379898316144578,
+    "median_abs_asymmetry": 0.11660526129156085,
+    "pairs_ge_0_10": 20,
+    "pairs_ge_0_20": 8,
+    "max_abs_asymmetry": 0.3922619047619048
+  },
+  "runtime_seconds": 222.09509468078613
+}

@@ -1,0 +1,54 @@
+{
+  "step": "Step10.5A",
+  "version": "v1",
+  "status": "PASS_STEP10_5A_COMPLETED",
+  "input": "Step10_4B_results_v2_species_only.zip / assembled_species_matrix.tsv",
+  "primary_n": 363,
+  "species_features": 2205,
+  "domain_count": 9,
+  "study_family_count": 5,
+  "observed_models": [
+    "elastic_net",
+    "ridge",
+    "random_forest"
+  ],
+  "observed_scenarios": [
+    "PRIMARY",
+    "S1_EXCLUDE_BCN12",
+    "S2_BCN12_AS_NR",
+    "S3_EXCLUDE_LEE_SITES"
+  ],
+  "validation_schemes": [
+    "RANDOM_STRATIFIED_5FOLD",
+    "LEAVE_ONE_DOMAIN_OUT",
+    "LEAVE_ONE_STUDY_FAMILY_OUT"
+  ],
+  "primary_elastic_net_random_cv_repeats": 5,
+  "support_model_random_cv_repeats": 2,
+  "locked_benchmark_hyperparameters": {
+    "elastic_net": {
+      "C": 0.2,
+      "l1_ratio": 0.75
+    },
+    "ridge": {
+      "C": 0.5
+    },
+    "random_forest": {
+      "max_features": "sqrt",
+      "min_samples_leaf": 5
+    }
+  },
+  "permutation_primary_model_only": "elastic_net",
+  "permutation_primary_scenario_only": "PRIMARY",
+  "permutation_iterations": 500,
+  "permutation_strategy": "shuffle response separately within each domain",
+  "mandatory_sensitivity_rule": "All three observed models were rerun under PRIMARY, S1, S2 and S3 for all three validation schemes. The permutation test targets the prespecified PRIMARY elastic-net estimand only.",
+  "leakage_controls": [
+    "Feature filtering, CLR pseudocount and scaling learned only in each outer training set.",
+    "Random CV intentionally mixes domains to quantify conventional-validation optimism.",
+    "No response information from an outer test fold contributes to preprocessing or fitting.",
+    "The same prespecified model complexity is used for random CV, LODO and study-family-out.",
+    "Permutation preserves domain-specific sample size and responder prevalence."
+  ],
+  "runtime_seconds": 1269.78
+}

@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "pilot_only": false,
+  "expected_fits": 140,
+  "passed_fits": 140,
+  "failed_fits": 0,
+  "remaining_fits": 0,
+  "seeds": [
+    20260802,
+    20260803,
+    20260804,
+    20260805,
+    20260806
+  ],
+  "modes": [
+    "standard_transductive",
+    "online_adaptive"
+  ]
+}

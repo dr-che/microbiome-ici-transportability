@@ -1,0 +1,31 @@
+category	variable	Frankel_US	Gopalakrishnan_US	Matson_US	Spencer_US	Lee_PRIMM_UK	Lee_PRIMM_NL	Lee_Manchester	Lee_Leeds	Lee_Barcelona	source_available_domains	exact_linked_domains	uniform_exact_linkage
+Governance	Domain, publication family and country	L	L	L	L	L	L	L	L	L	9	9	Yes
+Governance	Pretreatment/baseline stool timing	L	L	L	L	L	L	L	L	L	9	9	Yes
+Governance	Harmonized binary response label	L	L	L	L	L	L	L	L	L	9	9	Yes
+Governance	Patient-specimen-run-profile linkage	L	L	L	L	L	L	L	L	L	9	9	Yes
+Governance	Project and run accession	L	L	L	L	L	L	L	L	L	9	9	Yes
+Clinical	Coarse treatment scope	L	L	L	L	L	L	L	L	L	9	9	Yes
+Clinical	Exact patient-level ICI regimen	P	C	C	C	P	P	C	C	C	9	0	No
+Clinical	Response definition	C	C	C	C	C	C	C	C	C	9	0	No
+Clinical	Response assessment timing	C	C	U	C	C	C	C	C	C	8	0	No
+Clinical	Age	C	C	C	C	P	P	P	P	P	9	0	No
+Clinical	Sex	C	C	C	C	P	P	P	P	P	9	0	No
+Clinical	BMI	U	U	U	C	P	P	P	P	P	6	0	No
+Clinical	ECOG performance status	U	U	U	U	P	P	S	S	S	5	0	No
+Clinical	Tumour stage/M category	C	C	C	C	P	P	P	P	P	9	0	No
+Clinical	BRAF status	U	S	U	C	P	P	S	S	S	7	0	No
+Clinical	LDH	U	C	U	C	P	P	S	S	S	7	0	No
+Clinical	Previous systemic therapy	C	C	C	C	P	P	P	P	P	9	0	No
+Clinical	Antibiotic exposure	P	U	U	U	P	P	P	P	P	6	0	No
+Clinical	PPI exposure	U	U	U	U	P	P	P	P	P	5	0	No
+Clinical	Corticosteroid exposure	U	U	U	U	P	P	S	S	S	5	0	No
+Clinical	Diet/fibre	P	U	U	P	P	P	S	S	S	7	0	No
+Clinical	Probiotic use	P	U	U	P	U	U	U	U	U	2	0	No
+Technical	Stool collection/preservation protocol	C	S	S	S	C	C	C	C	C	9	0	No
+Technical	Storage/transport conditions	C	U	U	U	C	C	C	C	C	6	0	No
+Technical	DNA extraction protocol	C	U	U	U	C	C	S	S	S	6	0	No
+Technical	Library preparation protocol	U	U	U	U	U	U	U	U	U	0	0	No
+Technical	Sequencing platform/read length	C	C	C	C	C	C	C	C	C	9	0	No
+Technical	Sequencing depth	C	C	C	C	C	C	C	C	C	9	0	No
+Technical	Original study processing pipeline	C	C	C	C	C	C	C	C	C	9	0	No
+Technical	Current MetaPhlAn4 processed-profile linkage	L	L	L	L	L	L	L	L	L	9	9	Yes

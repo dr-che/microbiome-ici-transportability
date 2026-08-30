@@ -1,0 +1,101 @@
+{
+  "step": "Step10.4B",
+  "version": "v2_species_only",
+  "status": "PASS_SPECIES_ONLY_MODELING_PIPELINE_COMPLETED",
+  "primary_n": 363,
+  "primary_domains": 9,
+  "assembled_species_features": 2205,
+  "models": [
+    "elastic_net",
+    "ridge",
+    "random_forest"
+  ],
+  "scenarios": [
+    "PRIMARY",
+    "S1_EXCLUDE_BCN12",
+    "S2_BCN12_AS_NR",
+    "S3_EXCLUDE_LEE_SITES"
+  ],
+  "validation": "Leave-one-domain-out outer validation; grouped inner tuning",
+  "primary_model": "elastic_net",
+  "primary_elastic_net_metrics": {
+    "scenario": "PRIMARY",
+    "model": "elastic_net",
+    "n": 363,
+    "responders": 217,
+    "non_responders": 146,
+    "domains": 9,
+    "roc_auc": 0.5283126065273658,
+    "pr_auc": 0.6488346153832057,
+    "brier": 0.30189734456135325,
+    "balanced_accuracy": 0.5183384887317719,
+    "sensitivity": 0.5161290322580645,
+    "specificity": 0.5205479452054794,
+    "log_loss": 0.9855810868430374,
+    "roc_auc_ci_low": 0.47802219322586614,
+    "roc_auc_ci_high": 0.5848914016861873,
+    "roc_auc_bootstrap_valid": 500,
+    "pr_auc_ci_low": 0.546248022566466,
+    "pr_auc_ci_high": 0.7287637798485899,
+    "pr_auc_bootstrap_valid": 500,
+    "brier_ci_low": 0.2778681903498041,
+    "brier_ci_high": 0.3286873997278573,
+    "brier_bootstrap_valid": 500,
+    "calibration_intercept": 0.39309433475123395,
+    "calibration_slope": 0.08028292209616836,
+    "prevalence_baseline_pr_auc": 0.5977961432506887
+  },
+  "primary_elastic_net_sensitivity_deltas": [
+    {
+      "model": "elastic_net",
+      "scenario": "S1_EXCLUDE_BCN12",
+      "n": 362,
+      "roc_auc": 0.5275875190258752,
+      "primary_roc_auc": 0.5283126065273658,
+      "delta_roc_auc_vs_primary": -0.0007250875014905844,
+      "pr_auc": 0.6483760301096018,
+      "primary_pr_auc": 0.6488346153832057,
+      "delta_pr_auc_vs_primary": -0.00045858527360398416,
+      "brier": 0.30302007758308774,
+      "primary_brier": 0.30189734456135325,
+      "delta_brier_vs_primary": 0.00112273302173449
+    },
+    {
+      "model": "elastic_net",
+      "scenario": "S2_BCN12_AS_NR",
+      "n": 363,
+      "roc_auc": 0.5108339632149156,
+      "primary_roc_auc": 0.5283126065273658,
+      "delta_roc_auc_vs_primary": -0.017478643312450193,
+      "pr_auc": 0.6439017759529807,
+      "primary_pr_auc": 0.6488346153832057,
+      "delta_pr_auc_vs_primary": -0.0049328394302250445,
+      "brier": 0.2970049891784951,
+      "primary_brier": 0.30189734456135325,
+      "delta_brier_vs_primary": -0.004892355382858149
+    },
+    {
+      "model": "elastic_net",
+      "scenario": "S3_EXCLUDE_LEE_SITES",
+      "n": 326,
+      "roc_auc": 0.4927392869861117,
+      "primary_roc_auc": 0.5283126065273658,
+      "delta_roc_auc_vs_primary": -0.03557331954125409,
+      "pr_auc": 0.6088970093895737,
+      "primary_pr_auc": 0.6488346153832057,
+      "delta_pr_auc_vs_primary": -0.03993760599363205,
+      "brier": 0.3201782245474338,
+      "primary_brier": 0.30189734456135325,
+      "delta_brier_vs_primary": 0.018280879986080523
+    }
+  ],
+  "interpretation_gate": "REQUIRES_RESULT_REVIEW_BEFORE_MANUSCRIPT_CONCLUSION",
+  "critical_rules_satisfied": [
+    "All three mandatory endpoint/site sensitivity scenarios were run for every model.",
+    "All models used leave-one-domain-out validation.",
+    "Preprocessing was learned only from outer training domains.",
+    "PRIMM0069 was excluded.",
+    "No domain indicator was used as a predictor."
+  ],
+  "runtime_seconds": 1395.19
+}

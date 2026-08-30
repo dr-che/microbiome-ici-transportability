@@ -1,0 +1,738 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1228" height="1110" viewBox="0 0 1228 1110">
+<rect width="100%" height="100%" fill="white"/>
+<text x="20" y="30" font-family="Arial" font-size="20" font-weight="bold">Step 10.5C domain effect direction map</text>
+<text x="20" y="55" font-family="Arial" font-size="12">Red: higher CLR abundance in responders; blue: lower in responders</text>
+<text x="406.0" y="140" font-family="Arial" font-size="10" text-anchor="end" transform="rotate(-55 406.0 140)">Frankel_US</text>
+<text x="498.0" y="140" font-family="Arial" font-size="10" text-anchor="end" transform="rotate(-55 498.0 140)">Gopalakrishnan_US</text>
+<text x="590.0" y="140" font-family="Arial" font-size="10" text-anchor="end" transform="rotate(-55 590.0 140)">Matson_US</text>
+<text x="682.0" y="140" font-family="Arial" font-size="10" text-anchor="end" transform="rotate(-55 682.0 140)">Spencer_US</text>
+<text x="774.0" y="140" font-family="Arial" font-size="10" text-anchor="end" transform="rotate(-55 774.0 140)">Lee_PRIMM_UK</text>
+<text x="866.0" y="140" font-family="Arial" font-size="10" text-anchor="end" transform="rotate(-55 866.0 140)">Lee_PRIMM_NL</text>
+<text x="958.0" y="140" font-family="Arial" font-size="10" text-anchor="end" transform="rotate(-55 958.0 140)">Lee_Manchester</text>
+<text x="1050.0" y="140" font-family="Arial" font-size="10" text-anchor="end" transform="rotate(-55 1050.0 140)">Lee_Leeds</text>
+<text x="1142.0" y="140" font-family="Arial" font-size="10" text-anchor="end" transform="rotate(-55 1142.0 140)">Lee_Barcelona</text>
+<text x="352" y="165" font-family="Arial" font-size="10" text-anchor="end">Bifidobacterium_adolescentis</text>
+<text x="10" y="165" font-family="Arial" font-size="9">STRONG_DIRECTION_REVERSAL</text>
+<rect x="360" y="150" width="90" height="20" fill="rgb(245,235,233)" stroke="white"/>
+<text x="406.0" y="164" font-family="Arial" font-size="9" text-anchor="middle">0.09</text>
+<rect x="452" y="150" width="90" height="20" fill="rgb(245,199,190)" stroke="white"/>
+<text x="498.0" y="164" font-family="Arial" font-size="9" text-anchor="middle">0.46</text>
+<rect x="544" y="150" width="90" height="20" fill="rgb(245,193,182)" stroke="white"/>
+<text x="590.0" y="164" font-family="Arial" font-size="9" text-anchor="middle">0.52</text>
+<rect x="636" y="150" width="90" height="20" fill="rgb(245,240,239)" stroke="white"/>
+<text x="682.0" y="164" font-family="Arial" font-size="9" text-anchor="middle">0.05</text>
+<rect x="728" y="150" width="90" height="20" fill="rgb(245,205,198)" stroke="white"/>
+<text x="774.0" y="164" font-family="Arial" font-size="9" text-anchor="middle">0.39</text>
+<rect x="820" y="150" width="90" height="20" fill="rgb(245,183,171)" stroke="white"/>
+<text x="866.0" y="164" font-family="Arial" font-size="9" text-anchor="middle">0.62</text>
+<rect x="912" y="150" width="90" height="20" fill="rgb(245,214,208)" stroke="white"/>
+<text x="958.0" y="164" font-family="Arial" font-size="9" text-anchor="middle">0.31</text>
+<rect x="1004" y="150" width="90" height="20" fill="rgb(99,156,245)" stroke="white"/>
+<text x="1050.0" y="164" font-family="Arial" font-size="9" text-anchor="middle">-1.21</text>
+<rect x="1096" y="150" width="90" height="20" fill="rgb(97,154,245)" stroke="white"/>
+<text x="1142.0" y="164" font-family="Arial" font-size="9" text-anchor="middle">-1.23</text>
+<text x="352" y="187" font-family="Arial" font-size="10" text-anchor="end">Adlercreutzia_equolifaciens</text>
+<text x="10" y="187" font-family="Arial" font-size="9">STRONG_DIRECTION_REVERSAL</text>
+<rect x="360" y="172" width="90" height="20" fill="rgb(211,224,245)" stroke="white"/>
+<text x="406.0" y="186" font-family="Arial" font-size="9" text-anchor="middle">-0.28</text>
+<rect x="452" y="172" width="90" height="20" fill="rgb(176,203,245)" stroke="white"/>
+<text x="498.0" y="186" font-family="Arial" font-size="9" text-anchor="middle">-0.57</text>
+<rect x="544" y="172" width="90" height="20" fill="rgb(143,182,245)" stroke="white"/>
+<text x="590.0" y="186" font-family="Arial" font-size="9" text-anchor="middle">-0.85</text>
+<rect x="636" y="172" width="90" height="20" fill="rgb(237,240,245)" stroke="white"/>
+<text x="682.0" y="186" font-family="Arial" font-size="9" text-anchor="middle">-0.07</text>
+<rect x="728" y="172" width="90" height="20" fill="rgb(245,212,206)" stroke="white"/>
+<text x="774.0" y="186" font-family="Arial" font-size="9" text-anchor="middle">0.32</text>
+<rect x="820" y="172" width="90" height="20" fill="rgb(245,183,170)" stroke="white"/>
+<text x="866.0" y="186" font-family="Arial" font-size="9" text-anchor="middle">0.62</text>
+<rect x="912" y="172" width="90" height="20" fill="rgb(245,177,164)" stroke="white"/>
+<text x="958.0" y="186" font-family="Arial" font-size="9" text-anchor="middle">0.67</text>
+<rect x="1004" y="172" width="90" height="20" fill="rgb(185,208,245)" stroke="white"/>
+<text x="1050.0" y="186" font-family="Arial" font-size="9" text-anchor="middle">-0.50</text>
+<rect x="1096" y="172" width="90" height="20" fill="rgb(192,212,245)" stroke="white"/>
+<text x="1142.0" y="186" font-family="Arial" font-size="9" text-anchor="middle">-0.44</text>
+<text x="352" y="209" font-family="Arial" font-size="10" text-anchor="end">GGB51647_SGB4348</text>
+<text x="10" y="209" font-family="Arial" font-size="9">STRONG_DIRECTION_REVERSAL</text>
+<rect x="360" y="194" width="90" height="20" fill="rgb(245,173,159)" stroke="white"/>
+<text x="406.0" y="208" font-family="Arial" font-size="9" text-anchor="middle">0.72</text>
+<rect x="452" y="194" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="194" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="636" y="194" width="90" height="20" fill="rgb(245,244,244)" stroke="white"/>
+<text x="682.0" y="208" font-family="Arial" font-size="9" text-anchor="middle">0.00</text>
+<rect x="728" y="194" width="90" height="20" fill="rgb(245,244,243)" stroke="white"/>
+<text x="774.0" y="208" font-family="Arial" font-size="9" text-anchor="middle">0.01</text>
+<rect x="820" y="194" width="90" height="20" fill="rgb(245,220,215)" stroke="white"/>
+<text x="866.0" y="208" font-family="Arial" font-size="9" text-anchor="middle">0.25</text>
+<rect x="912" y="194" width="90" height="20" fill="rgb(245,215,209)" stroke="white"/>
+<text x="958.0" y="208" font-family="Arial" font-size="9" text-anchor="middle">0.29</text>
+<rect x="1004" y="194" width="90" height="20" fill="rgb(199,217,245)" stroke="white"/>
+<text x="1050.0" y="208" font-family="Arial" font-size="9" text-anchor="middle">-0.38</text>
+<rect x="1096" y="194" width="90" height="20" fill="rgb(65,135,245)" stroke="white"/>
+<text x="1142.0" y="208" font-family="Arial" font-size="9" text-anchor="middle">-2.31</text>
+<text x="352" y="231" font-family="Arial" font-size="10" text-anchor="end">Klebsiella_pneumoniae</text>
+<text x="10" y="231" font-family="Arial" font-size="9">STRONG_DIRECTION_REVERSAL</text>
+<rect x="360" y="216" width="90" height="20" fill="rgb(158,191,245)" stroke="white"/>
+<text x="406.0" y="230" font-family="Arial" font-size="9" text-anchor="middle">-0.72</text>
+<rect x="452" y="216" width="90" height="20" fill="rgb(174,201,245)" stroke="white"/>
+<text x="498.0" y="230" font-family="Arial" font-size="9" text-anchor="middle">-0.59</text>
+<rect x="544" y="216" width="90" height="20" fill="rgb(245,217,212)" stroke="white"/>
+<text x="590.0" y="230" font-family="Arial" font-size="9" text-anchor="middle">0.27</text>
+<rect x="636" y="216" width="90" height="20" fill="rgb(245,238,237)" stroke="white"/>
+<text x="682.0" y="230" font-family="Arial" font-size="9" text-anchor="middle">0.06</text>
+<rect x="728" y="216" width="90" height="20" fill="rgb(212,225,245)" stroke="white"/>
+<text x="774.0" y="230" font-family="Arial" font-size="9" text-anchor="middle">-0.27</text>
+<rect x="820" y="216" width="90" height="20" fill="rgb(244,244,245)" stroke="white"/>
+<text x="866.0" y="230" font-family="Arial" font-size="9" text-anchor="middle">-0.01</text>
+<rect x="912" y="216" width="90" height="20" fill="rgb(245,129,106)" stroke="white"/>
+<text x="958.0" y="230" font-family="Arial" font-size="9" text-anchor="middle">1.16</text>
+<rect x="1004" y="216" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1096" y="216" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="253" font-family="Arial" font-size="10" text-anchor="end">Blautia_luti</text>
+<text x="10" y="253" font-family="Arial" font-size="9">STRONG_DIRECTION_REVERSAL</text>
+<rect x="360" y="238" width="90" height="20" fill="rgb(245,166,151)" stroke="white"/>
+<text x="406.0" y="252" font-family="Arial" font-size="9" text-anchor="middle">0.78</text>
+<rect x="452" y="238" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="238" width="90" height="20" fill="rgb(245,219,214)" stroke="white"/>
+<text x="590.0" y="252" font-family="Arial" font-size="9" text-anchor="middle">0.25</text>
+<rect x="636" y="238" width="90" height="20" fill="rgb(182,207,245)" stroke="white"/>
+<text x="682.0" y="252" font-family="Arial" font-size="9" text-anchor="middle">-0.52</text>
+<rect x="728" y="238" width="90" height="20" fill="rgb(245,194,184)" stroke="white"/>
+<text x="774.0" y="252" font-family="Arial" font-size="9" text-anchor="middle">0.50</text>
+<rect x="820" y="238" width="90" height="20" fill="rgb(211,224,245)" stroke="white"/>
+<text x="866.0" y="252" font-family="Arial" font-size="9" text-anchor="middle">-0.28</text>
+<rect x="912" y="238" width="90" height="20" fill="rgb(245,219,214)" stroke="white"/>
+<text x="958.0" y="252" font-family="Arial" font-size="9" text-anchor="middle">0.26</text>
+<rect x="1004" y="238" width="90" height="20" fill="rgb(142,182,245)" stroke="white"/>
+<text x="1050.0" y="252" font-family="Arial" font-size="9" text-anchor="middle">-0.85</text>
+<rect x="1096" y="238" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="275" font-family="Arial" font-size="10" text-anchor="end">GGB3005_SGB3996</text>
+<text x="10" y="275" font-family="Arial" font-size="9">STRONG_DIRECTION_REVERSAL</text>
+<rect x="360" y="260" width="90" height="20" fill="rgb(245,228,225)" stroke="white"/>
+<text x="406.0" y="274" font-family="Arial" font-size="9" text-anchor="middle">0.17</text>
+<rect x="452" y="260" width="90" height="20" fill="rgb(228,234,245)" stroke="white"/>
+<text x="498.0" y="274" font-family="Arial" font-size="9" text-anchor="middle">-0.14</text>
+<rect x="544" y="260" width="90" height="20" fill="rgb(150,187,245)" stroke="white"/>
+<text x="590.0" y="274" font-family="Arial" font-size="9" text-anchor="middle">-0.79</text>
+<rect x="636" y="260" width="90" height="20" fill="rgb(239,241,245)" stroke="white"/>
+<text x="682.0" y="274" font-family="Arial" font-size="9" text-anchor="middle">-0.05</text>
+<rect x="728" y="260" width="90" height="20" fill="rgb(245,239,237)" stroke="white"/>
+<text x="774.0" y="274" font-family="Arial" font-size="9" text-anchor="middle">0.06</text>
+<rect x="820" y="260" width="90" height="20" fill="rgb(245,241,240)" stroke="white"/>
+<text x="866.0" y="274" font-family="Arial" font-size="9" text-anchor="middle">0.04</text>
+<rect x="912" y="260" width="90" height="20" fill="rgb(245,162,145)" stroke="white"/>
+<text x="958.0" y="274" font-family="Arial" font-size="9" text-anchor="middle">0.83</text>
+<rect x="1004" y="260" width="90" height="20" fill="rgb(172,200,245)" stroke="white"/>
+<text x="1050.0" y="274" font-family="Arial" font-size="9" text-anchor="middle">-0.60</text>
+<rect x="1096" y="260" width="90" height="20" fill="rgb(245,214,208)" stroke="white"/>
+<text x="1142.0" y="274" font-family="Arial" font-size="9" text-anchor="middle">0.31</text>
+<text x="352" y="297" font-family="Arial" font-size="10" text-anchor="end">Roseburia_sp_AF02_12</text>
+<text x="10" y="297" font-family="Arial" font-size="9">STRONG_DIRECTION_REVERSAL</text>
+<rect x="360" y="282" width="90" height="20" fill="rgb(245,170,155)" stroke="white"/>
+<text x="406.0" y="296" font-family="Arial" font-size="9" text-anchor="middle">0.75</text>
+<rect x="452" y="282" width="90" height="20" fill="rgb(243,244,245)" stroke="white"/>
+<text x="498.0" y="296" font-family="Arial" font-size="9" text-anchor="middle">-0.01</text>
+<rect x="544" y="282" width="90" height="20" fill="rgb(245,197,188)" stroke="white"/>
+<text x="590.0" y="296" font-family="Arial" font-size="9" text-anchor="middle">0.47</text>
+<rect x="636" y="282" width="90" height="20" fill="rgb(245,231,229)" stroke="white"/>
+<text x="682.0" y="296" font-family="Arial" font-size="9" text-anchor="middle">0.13</text>
+<rect x="728" y="282" width="90" height="20" fill="rgb(183,207,245)" stroke="white"/>
+<text x="774.0" y="296" font-family="Arial" font-size="9" text-anchor="middle">-0.51</text>
+<rect x="820" y="282" width="90" height="20" fill="rgb(224,232,245)" stroke="white"/>
+<text x="866.0" y="296" font-family="Arial" font-size="9" text-anchor="middle">-0.17</text>
+<rect x="912" y="282" width="90" height="20" fill="rgb(245,187,175)" stroke="white"/>
+<text x="958.0" y="296" font-family="Arial" font-size="9" text-anchor="middle">0.58</text>
+<rect x="1004" y="282" width="90" height="20" fill="rgb(65,135,245)" stroke="white"/>
+<text x="1050.0" y="296" font-family="Arial" font-size="9" text-anchor="middle">-1.64</text>
+<rect x="1096" y="282" width="90" height="20" fill="rgb(193,213,245)" stroke="white"/>
+<text x="1142.0" y="296" font-family="Arial" font-size="9" text-anchor="middle">-0.43</text>
+<text x="352" y="319" font-family="Arial" font-size="10" text-anchor="end">GGB3321_SGB4394</text>
+<text x="10" y="319" font-family="Arial" font-size="9">DOMAIN_SPECIFIC</text>
+<rect x="360" y="304" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="452" y="304" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="304" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="636" y="304" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="728" y="304" width="90" height="20" fill="rgb(240,242,245)" stroke="white"/>
+<text x="774.0" y="318" font-family="Arial" font-size="9" text-anchor="middle">-0.04</text>
+<rect x="820" y="304" width="90" height="20" fill="rgb(245,229,226)" stroke="white"/>
+<text x="866.0" y="318" font-family="Arial" font-size="9" text-anchor="middle">0.15</text>
+<rect x="912" y="304" width="90" height="20" fill="rgb(171,200,245)" stroke="white"/>
+<text x="958.0" y="318" font-family="Arial" font-size="9" text-anchor="middle">-0.61</text>
+<rect x="1004" y="304" width="90" height="20" fill="rgb(161,193,245)" stroke="white"/>
+<text x="1050.0" y="318" font-family="Arial" font-size="9" text-anchor="middle">-0.70</text>
+<rect x="1096" y="304" width="90" height="20" fill="rgb(65,135,245)" stroke="white"/>
+<text x="1142.0" y="318" font-family="Arial" font-size="9" text-anchor="middle">-2.40</text>
+<text x="352" y="341" font-family="Arial" font-size="10" text-anchor="end">Actinomyces_graevenitzii</text>
+<text x="10" y="341" font-family="Arial" font-size="9">DOMAIN_SPECIFIC</text>
+<rect x="360" y="326" width="90" height="20" fill="rgb(146,184,245)" stroke="white"/>
+<text x="406.0" y="340" font-family="Arial" font-size="9" text-anchor="middle">-0.82</text>
+<rect x="452" y="326" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="326" width="90" height="20" fill="rgb(245,187,176)" stroke="white"/>
+<text x="590.0" y="340" font-family="Arial" font-size="9" text-anchor="middle">0.57</text>
+<rect x="636" y="326" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="728" y="326" width="90" height="20" fill="rgb(187,209,245)" stroke="white"/>
+<text x="774.0" y="340" font-family="Arial" font-size="9" text-anchor="middle">-0.48</text>
+<rect x="820" y="326" width="90" height="20" fill="rgb(223,231,245)" stroke="white"/>
+<text x="866.0" y="340" font-family="Arial" font-size="9" text-anchor="middle">-0.18</text>
+<rect x="912" y="326" width="90" height="20" fill="rgb(245,230,227)" stroke="white"/>
+<text x="958.0" y="340" font-family="Arial" font-size="9" text-anchor="middle">0.15</text>
+<rect x="1004" y="326" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1096" y="326" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="363" font-family="Arial" font-size="10" text-anchor="end">Desulfovibrio_piger</text>
+<text x="10" y="363" font-family="Arial" font-size="9">DOMAIN_SPECIFIC</text>
+<rect x="360" y="348" width="90" height="20" fill="rgb(201,218,245)" stroke="white"/>
+<text x="406.0" y="362" font-family="Arial" font-size="9" text-anchor="middle">-0.36</text>
+<rect x="452" y="348" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="348" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="636" y="348" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="728" y="348" width="90" height="20" fill="rgb(245,196,186)" stroke="white"/>
+<text x="774.0" y="362" font-family="Arial" font-size="9" text-anchor="middle">0.48</text>
+<rect x="820" y="348" width="90" height="20" fill="rgb(245,237,236)" stroke="white"/>
+<text x="866.0" y="362" font-family="Arial" font-size="9" text-anchor="middle">0.07</text>
+<rect x="912" y="348" width="90" height="20" fill="rgb(239,241,245)" stroke="white"/>
+<text x="958.0" y="362" font-family="Arial" font-size="9" text-anchor="middle">-0.05</text>
+<rect x="1004" y="348" width="90" height="20" fill="rgb(83,146,245)" stroke="white"/>
+<text x="1050.0" y="362" font-family="Arial" font-size="9" text-anchor="middle">-1.34</text>
+<rect x="1096" y="348" width="90" height="20" fill="rgb(243,243,245)" stroke="white"/>
+<text x="1142.0" y="362" font-family="Arial" font-size="9" text-anchor="middle">-0.02</text>
+<text x="352" y="385" font-family="Arial" font-size="10" text-anchor="end">Phascolarctobacterium_SGB4573</text>
+<text x="10" y="385" font-family="Arial" font-size="9">DOMAIN_SPECIFIC</text>
+<rect x="360" y="370" width="90" height="20" fill="rgb(245,230,227)" stroke="white"/>
+<text x="406.0" y="384" font-family="Arial" font-size="9" text-anchor="middle">0.14</text>
+<rect x="452" y="370" width="90" height="20" fill="rgb(138,180,245)" stroke="white"/>
+<text x="498.0" y="384" font-family="Arial" font-size="9" text-anchor="middle">-0.89</text>
+<rect x="544" y="370" width="90" height="20" fill="rgb(245,230,227)" stroke="white"/>
+<text x="590.0" y="384" font-family="Arial" font-size="9" text-anchor="middle">0.15</text>
+<rect x="636" y="370" width="90" height="20" fill="rgb(245,215,209)" stroke="white"/>
+<text x="682.0" y="384" font-family="Arial" font-size="9" text-anchor="middle">0.29</text>
+<rect x="728" y="370" width="90" height="20" fill="rgb(186,209,245)" stroke="white"/>
+<text x="774.0" y="384" font-family="Arial" font-size="9" text-anchor="middle">-0.49</text>
+<rect x="820" y="370" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="912" y="370" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1004" y="370" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1096" y="370" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="407" font-family="Arial" font-size="10" text-anchor="end">Eisenbergiella_massiliensis</text>
+<text x="10" y="407" font-family="Arial" font-size="9">DOMAIN_SPECIFIC</text>
+<rect x="360" y="392" width="90" height="20" fill="rgb(245,130,107)" stroke="white"/>
+<text x="406.0" y="406" font-family="Arial" font-size="9" text-anchor="middle">1.14</text>
+<rect x="452" y="392" width="90" height="20" fill="rgb(245,206,198)" stroke="white"/>
+<text x="498.0" y="406" font-family="Arial" font-size="9" text-anchor="middle">0.39</text>
+<rect x="544" y="392" width="90" height="20" fill="rgb(166,197,245)" stroke="white"/>
+<text x="590.0" y="406" font-family="Arial" font-size="9" text-anchor="middle">-0.65</text>
+<rect x="636" y="392" width="90" height="20" fill="rgb(228,235,245)" stroke="white"/>
+<text x="682.0" y="406" font-family="Arial" font-size="9" text-anchor="middle">-0.14</text>
+<rect x="728" y="392" width="90" height="20" fill="rgb(214,226,245)" stroke="white"/>
+<text x="774.0" y="406" font-family="Arial" font-size="9" text-anchor="middle">-0.25</text>
+<rect x="820" y="392" width="90" height="20" fill="rgb(245,223,219)" stroke="white"/>
+<text x="866.0" y="406" font-family="Arial" font-size="9" text-anchor="middle">0.22</text>
+<rect x="912" y="392" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1004" y="392" width="90" height="20" fill="rgb(243,244,245)" stroke="white"/>
+<text x="1050.0" y="406" font-family="Arial" font-size="9" text-anchor="middle">-0.01</text>
+<rect x="1096" y="392" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="429" font-family="Arial" font-size="10" text-anchor="end">Bacteroides_eggerthii</text>
+<text x="10" y="429" font-family="Arial" font-size="9">DOMAIN_SPECIFIC</text>
+<rect x="360" y="414" width="90" height="20" fill="rgb(192,213,245)" stroke="white"/>
+<text x="406.0" y="428" font-family="Arial" font-size="9" text-anchor="middle">-0.43</text>
+<rect x="452" y="414" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="414" width="90" height="20" fill="rgb(245,197,188)" stroke="white"/>
+<text x="590.0" y="428" font-family="Arial" font-size="9" text-anchor="middle">0.47</text>
+<rect x="636" y="414" width="90" height="20" fill="rgb(245,208,201)" stroke="white"/>
+<text x="682.0" y="428" font-family="Arial" font-size="9" text-anchor="middle">0.37</text>
+<rect x="728" y="414" width="90" height="20" fill="rgb(245,155,138)" stroke="white"/>
+<text x="774.0" y="428" font-family="Arial" font-size="9" text-anchor="middle">0.89</text>
+<rect x="820" y="414" width="90" height="20" fill="rgb(197,215,245)" stroke="white"/>
+<text x="866.0" y="428" font-family="Arial" font-size="9" text-anchor="middle">-0.40</text>
+<rect x="912" y="414" width="90" height="20" fill="rgb(209,223,245)" stroke="white"/>
+<text x="958.0" y="428" font-family="Arial" font-size="9" text-anchor="middle">-0.29</text>
+<rect x="1004" y="414" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1096" y="414" width="90" height="20" fill="rgb(187,209,245)" stroke="white"/>
+<text x="1142.0" y="428" font-family="Arial" font-size="9" text-anchor="middle">-0.48</text>
+<text x="352" y="451" font-family="Arial" font-size="10" text-anchor="end">Holdemania_filiformis</text>
+<text x="10" y="451" font-family="Arial" font-size="9">DOMAIN_SPECIFIC</text>
+<rect x="360" y="436" width="90" height="20" fill="rgb(245,179,166)" stroke="white"/>
+<text x="406.0" y="450" font-family="Arial" font-size="9" text-anchor="middle">0.65</text>
+<rect x="452" y="436" width="90" height="20" fill="rgb(222,231,245)" stroke="white"/>
+<text x="498.0" y="450" font-family="Arial" font-size="9" text-anchor="middle">-0.19</text>
+<rect x="544" y="436" width="90" height="20" fill="rgb(177,203,245)" stroke="white"/>
+<text x="590.0" y="450" font-family="Arial" font-size="9" text-anchor="middle">-0.56</text>
+<rect x="636" y="436" width="90" height="20" fill="rgb(245,193,183)" stroke="white"/>
+<text x="682.0" y="450" font-family="Arial" font-size="9" text-anchor="middle">0.51</text>
+<rect x="728" y="436" width="90" height="20" fill="rgb(211,224,245)" stroke="white"/>
+<text x="774.0" y="450" font-family="Arial" font-size="9" text-anchor="middle">-0.28</text>
+<rect x="820" y="436" width="90" height="20" fill="rgb(193,213,245)" stroke="white"/>
+<text x="866.0" y="450" font-family="Arial" font-size="9" text-anchor="middle">-0.43</text>
+<rect x="912" y="436" width="90" height="20" fill="rgb(148,185,245)" stroke="white"/>
+<text x="958.0" y="450" font-family="Arial" font-size="9" text-anchor="middle">-0.81</text>
+<rect x="1004" y="436" width="90" height="20" fill="rgb(234,238,245)" stroke="white"/>
+<text x="1050.0" y="450" font-family="Arial" font-size="9" text-anchor="middle">-0.08</text>
+<rect x="1096" y="436" width="90" height="20" fill="rgb(245,144,124)" stroke="white"/>
+<text x="1142.0" y="450" font-family="Arial" font-size="9" text-anchor="middle">1.00</text>
+<text x="352" y="473" font-family="Arial" font-size="10" text-anchor="end">GGB9767_SGB15385</text>
+<text x="10" y="473" font-family="Arial" font-size="9">DOMAIN_SPECIFIC</text>
+<rect x="360" y="458" width="90" height="20" fill="rgb(238,241,245)" stroke="white"/>
+<text x="406.0" y="472" font-family="Arial" font-size="9" text-anchor="middle">-0.05</text>
+<rect x="452" y="458" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="458" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="636" y="458" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="728" y="458" width="90" height="20" fill="rgb(245,187,176)" stroke="white"/>
+<text x="774.0" y="472" font-family="Arial" font-size="9" text-anchor="middle">0.57</text>
+<rect x="820" y="458" width="90" height="20" fill="rgb(245,231,228)" stroke="white"/>
+<text x="866.0" y="472" font-family="Arial" font-size="9" text-anchor="middle">0.14</text>
+<rect x="912" y="458" width="90" height="20" fill="rgb(168,198,245)" stroke="white"/>
+<text x="958.0" y="472" font-family="Arial" font-size="9" text-anchor="middle">-0.64</text>
+<rect x="1004" y="458" width="90" height="20" fill="rgb(168,198,245)" stroke="white"/>
+<text x="1050.0" y="472" font-family="Arial" font-size="9" text-anchor="middle">-0.64</text>
+<rect x="1096" y="458" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="495" font-family="Arial" font-size="10" text-anchor="end">Lacrimispora_amygdalina</text>
+<text x="10" y="495" font-family="Arial" font-size="9">DOMAIN_SPECIFIC</text>
+<rect x="360" y="480" width="90" height="20" fill="rgb(245,228,225)" stroke="white"/>
+<text x="406.0" y="494" font-family="Arial" font-size="9" text-anchor="middle">0.16</text>
+<rect x="452" y="480" width="90" height="20" fill="rgb(199,217,245)" stroke="white"/>
+<text x="498.0" y="494" font-family="Arial" font-size="9" text-anchor="middle">-0.38</text>
+<rect x="544" y="480" width="90" height="20" fill="rgb(245,183,170)" stroke="white"/>
+<text x="590.0" y="494" font-family="Arial" font-size="9" text-anchor="middle">0.62</text>
+<rect x="636" y="480" width="90" height="20" fill="rgb(245,221,217)" stroke="white"/>
+<text x="682.0" y="494" font-family="Arial" font-size="9" text-anchor="middle">0.23</text>
+<rect x="728" y="480" width="90" height="20" fill="rgb(157,191,245)" stroke="white"/>
+<text x="774.0" y="494" font-family="Arial" font-size="9" text-anchor="middle">-0.73</text>
+<rect x="820" y="480" width="90" height="20" fill="rgb(241,242,245)" stroke="white"/>
+<text x="866.0" y="494" font-family="Arial" font-size="9" text-anchor="middle">-0.03</text>
+<rect x="912" y="480" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1004" y="480" width="90" height="20" fill="rgb(245,173,158)" stroke="white"/>
+<text x="1050.0" y="494" font-family="Arial" font-size="9" text-anchor="middle">0.72</text>
+<rect x="1096" y="480" width="90" height="20" fill="rgb(187,209,245)" stroke="white"/>
+<text x="1142.0" y="494" font-family="Arial" font-size="9" text-anchor="middle">-0.48</text>
+<text x="352" y="517" font-family="Arial" font-size="10" text-anchor="end">GGB45495_SGB63167</text>
+<text x="10" y="517" font-family="Arial" font-size="9">DOMAIN_SPECIFIC</text>
+<rect x="360" y="502" width="90" height="20" fill="rgb(224,232,245)" stroke="white"/>
+<text x="406.0" y="516" font-family="Arial" font-size="9" text-anchor="middle">-0.17</text>
+<rect x="452" y="502" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="502" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="636" y="502" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="728" y="502" width="90" height="20" fill="rgb(245,218,212)" stroke="white"/>
+<text x="774.0" y="516" font-family="Arial" font-size="9" text-anchor="middle">0.27</text>
+<rect x="820" y="502" width="90" height="20" fill="rgb(245,195,186)" stroke="white"/>
+<text x="866.0" y="516" font-family="Arial" font-size="9" text-anchor="middle">0.49</text>
+<rect x="912" y="502" width="90" height="20" fill="rgb(137,179,245)" stroke="white"/>
+<text x="958.0" y="516" font-family="Arial" font-size="9" text-anchor="middle">-0.90</text>
+<rect x="1004" y="502" width="90" height="20" fill="rgb(245,240,239)" stroke="white"/>
+<text x="1050.0" y="516" font-family="Arial" font-size="9" text-anchor="middle">0.05</text>
+<rect x="1096" y="502" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="539" font-family="Arial" font-size="10" text-anchor="end">Veillonella_atypica</text>
+<text x="10" y="539" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="524" width="90" height="20" fill="rgb(216,227,245)" stroke="white"/>
+<text x="406.0" y="538" font-family="Arial" font-size="9" text-anchor="middle">-0.24</text>
+<rect x="452" y="524" width="90" height="20" fill="rgb(166,197,245)" stroke="white"/>
+<text x="498.0" y="538" font-family="Arial" font-size="9" text-anchor="middle">-0.65</text>
+<rect x="544" y="524" width="90" height="20" fill="rgb(245,242,241)" stroke="white"/>
+<text x="590.0" y="538" font-family="Arial" font-size="9" text-anchor="middle">0.03</text>
+<rect x="636" y="524" width="90" height="20" fill="rgb(183,207,245)" stroke="white"/>
+<text x="682.0" y="538" font-family="Arial" font-size="9" text-anchor="middle">-0.52</text>
+<rect x="728" y="524" width="90" height="20" fill="rgb(176,203,245)" stroke="white"/>
+<text x="774.0" y="538" font-family="Arial" font-size="9" text-anchor="middle">-0.57</text>
+<rect x="820" y="524" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="912" y="524" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1004" y="524" width="90" height="20" fill="rgb(236,239,245)" stroke="white"/>
+<text x="1050.0" y="538" font-family="Arial" font-size="9" text-anchor="middle">-0.07</text>
+<rect x="1096" y="524" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="561" font-family="Arial" font-size="10" text-anchor="end">Streptococcus_SGB14888</text>
+<text x="10" y="561" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="546" width="90" height="20" fill="rgb(245,225,222)" stroke="white"/>
+<text x="406.0" y="560" font-family="Arial" font-size="9" text-anchor="middle">0.19</text>
+<rect x="452" y="546" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="546" width="90" height="20" fill="rgb(182,206,245)" stroke="white"/>
+<text x="590.0" y="560" font-family="Arial" font-size="9" text-anchor="middle">-0.52</text>
+<rect x="636" y="546" width="90" height="20" fill="rgb(205,220,245)" stroke="white"/>
+<text x="682.0" y="560" font-family="Arial" font-size="9" text-anchor="middle">-0.33</text>
+<rect x="728" y="546" width="90" height="20" fill="rgb(183,207,245)" stroke="white"/>
+<text x="774.0" y="560" font-family="Arial" font-size="9" text-anchor="middle">-0.51</text>
+<rect x="820" y="546" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="912" y="546" width="90" height="20" fill="rgb(203,219,245)" stroke="white"/>
+<text x="958.0" y="560" font-family="Arial" font-size="9" text-anchor="middle">-0.34</text>
+<rect x="1004" y="546" width="90" height="20" fill="rgb(203,219,245)" stroke="white"/>
+<text x="1050.0" y="560" font-family="Arial" font-size="9" text-anchor="middle">-0.35</text>
+<rect x="1096" y="546" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="583" font-family="Arial" font-size="10" text-anchor="end">Veillonella_parvula</text>
+<text x="10" y="583" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="568" width="90" height="20" fill="rgb(190,211,245)" stroke="white"/>
+<text x="406.0" y="582" font-family="Arial" font-size="9" text-anchor="middle">-0.46</text>
+<rect x="452" y="568" width="90" height="20" fill="rgb(152,188,245)" stroke="white"/>
+<text x="498.0" y="582" font-family="Arial" font-size="9" text-anchor="middle">-0.77</text>
+<rect x="544" y="568" width="90" height="20" fill="rgb(245,192,181)" stroke="white"/>
+<text x="590.0" y="582" font-family="Arial" font-size="9" text-anchor="middle">0.53</text>
+<rect x="636" y="568" width="90" height="20" fill="rgb(214,226,245)" stroke="white"/>
+<text x="682.0" y="582" font-family="Arial" font-size="9" text-anchor="middle">-0.25</text>
+<rect x="728" y="568" width="90" height="20" fill="rgb(171,200,245)" stroke="white"/>
+<text x="774.0" y="582" font-family="Arial" font-size="9" text-anchor="middle">-0.61</text>
+<rect x="820" y="568" width="90" height="20" fill="rgb(181,206,245)" stroke="white"/>
+<text x="866.0" y="582" font-family="Arial" font-size="9" text-anchor="middle">-0.53</text>
+<rect x="912" y="568" width="90" height="20" fill="rgb(218,228,245)" stroke="white"/>
+<text x="958.0" y="582" font-family="Arial" font-size="9" text-anchor="middle">-0.22</text>
+<rect x="1004" y="568" width="90" height="20" fill="rgb(207,222,245)" stroke="white"/>
+<text x="1050.0" y="582" font-family="Arial" font-size="9" text-anchor="middle">-0.31</text>
+<rect x="1096" y="568" width="90" height="20" fill="rgb(244,244,245)" stroke="white"/>
+<text x="1142.0" y="582" font-family="Arial" font-size="9" text-anchor="middle">-0.00</text>
+<text x="352" y="605" font-family="Arial" font-size="10" text-anchor="end">Bittarella_massiliensis</text>
+<text x="10" y="605" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="590" width="90" height="20" fill="rgb(207,222,245)" stroke="white"/>
+<text x="406.0" y="604" font-family="Arial" font-size="9" text-anchor="middle">-0.31</text>
+<rect x="452" y="590" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="590" width="90" height="20" fill="rgb(219,229,245)" stroke="white"/>
+<text x="590.0" y="604" font-family="Arial" font-size="9" text-anchor="middle">-0.21</text>
+<rect x="636" y="590" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="728" y="590" width="90" height="20" fill="rgb(206,221,245)" stroke="white"/>
+<text x="774.0" y="604" font-family="Arial" font-size="9" text-anchor="middle">-0.32</text>
+<rect x="820" y="590" width="90" height="20" fill="rgb(166,197,245)" stroke="white"/>
+<text x="866.0" y="604" font-family="Arial" font-size="9" text-anchor="middle">-0.65</text>
+<rect x="912" y="590" width="90" height="20" fill="rgb(245,211,204)" stroke="white"/>
+<text x="958.0" y="604" font-family="Arial" font-size="9" text-anchor="middle">0.34</text>
+<rect x="1004" y="590" width="90" height="20" fill="rgb(190,211,245)" stroke="white"/>
+<text x="1050.0" y="604" font-family="Arial" font-size="9" text-anchor="middle">-0.45</text>
+<rect x="1096" y="590" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="627" font-family="Arial" font-size="10" text-anchor="end">Blautia_sp_Marseille_P3087</text>
+<text x="10" y="627" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="612" width="90" height="20" fill="rgb(245,176,162)" stroke="white"/>
+<text x="406.0" y="626" font-family="Arial" font-size="9" text-anchor="middle">0.68</text>
+<rect x="452" y="612" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="612" width="90" height="20" fill="rgb(245,187,176)" stroke="white"/>
+<text x="590.0" y="626" font-family="Arial" font-size="9" text-anchor="middle">0.57</text>
+<rect x="636" y="612" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="728" y="612" width="90" height="20" fill="rgb(245,216,211)" stroke="white"/>
+<text x="774.0" y="626" font-family="Arial" font-size="9" text-anchor="middle">0.28</text>
+<rect x="820" y="612" width="90" height="20" fill="rgb(220,229,245)" stroke="white"/>
+<text x="866.0" y="626" font-family="Arial" font-size="9" text-anchor="middle">-0.21</text>
+<rect x="912" y="612" width="90" height="20" fill="rgb(245,207,199)" stroke="white"/>
+<text x="958.0" y="626" font-family="Arial" font-size="9" text-anchor="middle">0.38</text>
+<rect x="1004" y="612" width="90" height="20" fill="rgb(245,240,239)" stroke="white"/>
+<text x="1050.0" y="626" font-family="Arial" font-size="9" text-anchor="middle">0.05</text>
+<rect x="1096" y="612" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="649" font-family="Arial" font-size="10" text-anchor="end">Faecalicatena_contorta</text>
+<text x="10" y="649" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="634" width="90" height="20" fill="rgb(245,212,206)" stroke="white"/>
+<text x="406.0" y="648" font-family="Arial" font-size="9" text-anchor="middle">0.32</text>
+<rect x="452" y="634" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="634" width="90" height="20" fill="rgb(245,214,208)" stroke="white"/>
+<text x="590.0" y="648" font-family="Arial" font-size="9" text-anchor="middle">0.31</text>
+<rect x="636" y="634" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="728" y="634" width="90" height="20" fill="rgb(245,214,208)" stroke="white"/>
+<text x="774.0" y="648" font-family="Arial" font-size="9" text-anchor="middle">0.30</text>
+<rect x="820" y="634" width="90" height="20" fill="rgb(245,243,243)" stroke="white"/>
+<text x="866.0" y="648" font-family="Arial" font-size="9" text-anchor="middle">0.01</text>
+<rect x="912" y="634" width="90" height="20" fill="rgb(245,177,163)" stroke="white"/>
+<text x="958.0" y="648" font-family="Arial" font-size="9" text-anchor="middle">0.68</text>
+<rect x="1004" y="634" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1096" y="634" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="671" font-family="Arial" font-size="10" text-anchor="end">GGB14025_SGB14906</text>
+<text x="10" y="671" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="656" width="90" height="20" fill="rgb(245,211,205)" stroke="white"/>
+<text x="406.0" y="670" font-family="Arial" font-size="9" text-anchor="middle">0.33</text>
+<rect x="452" y="656" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="656" width="90" height="20" fill="rgb(245,226,222)" stroke="white"/>
+<text x="590.0" y="670" font-family="Arial" font-size="9" text-anchor="middle">0.18</text>
+<rect x="636" y="656" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="728" y="656" width="90" height="20" fill="rgb(245,230,227)" stroke="white"/>
+<text x="774.0" y="670" font-family="Arial" font-size="9" text-anchor="middle">0.15</text>
+<rect x="820" y="656" width="90" height="20" fill="rgb(245,218,212)" stroke="white"/>
+<text x="866.0" y="670" font-family="Arial" font-size="9" text-anchor="middle">0.27</text>
+<rect x="912" y="656" width="90" height="20" fill="rgb(245,169,154)" stroke="white"/>
+<text x="958.0" y="670" font-family="Arial" font-size="9" text-anchor="middle">0.75</text>
+<rect x="1004" y="656" width="90" height="20" fill="rgb(245,235,233)" stroke="white"/>
+<text x="1050.0" y="670" font-family="Arial" font-size="9" text-anchor="middle">0.09</text>
+<rect x="1096" y="656" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="693" font-family="Arial" font-size="10" text-anchor="end">Faecalibacillus_intestinalis</text>
+<text x="10" y="693" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="678" width="90" height="20" fill="rgb(245,211,205)" stroke="white"/>
+<text x="406.0" y="692" font-family="Arial" font-size="9" text-anchor="middle">0.33</text>
+<rect x="452" y="678" width="90" height="20" fill="rgb(245,172,157)" stroke="white"/>
+<text x="498.0" y="692" font-family="Arial" font-size="9" text-anchor="middle">0.73</text>
+<rect x="544" y="678" width="90" height="20" fill="rgb(230,236,245)" stroke="white"/>
+<text x="590.0" y="692" font-family="Arial" font-size="9" text-anchor="middle">-0.12</text>
+<rect x="636" y="678" width="90" height="20" fill="rgb(245,228,224)" stroke="white"/>
+<text x="682.0" y="692" font-family="Arial" font-size="9" text-anchor="middle">0.17</text>
+<rect x="728" y="678" width="90" height="20" fill="rgb(245,220,216)" stroke="white"/>
+<text x="774.0" y="692" font-family="Arial" font-size="9" text-anchor="middle">0.24</text>
+<rect x="820" y="678" width="90" height="20" fill="rgb(245,192,182)" stroke="white"/>
+<text x="866.0" y="692" font-family="Arial" font-size="9" text-anchor="middle">0.52</text>
+<rect x="912" y="678" width="90" height="20" fill="rgb(245,205,197)" stroke="white"/>
+<text x="958.0" y="692" font-family="Arial" font-size="9" text-anchor="middle">0.40</text>
+<rect x="1004" y="678" width="90" height="20" fill="rgb(238,241,245)" stroke="white"/>
+<text x="1050.0" y="692" font-family="Arial" font-size="9" text-anchor="middle">-0.05</text>
+<rect x="1096" y="678" width="90" height="20" fill="rgb(245,217,211)" stroke="white"/>
+<text x="1142.0" y="692" font-family="Arial" font-size="9" text-anchor="middle">0.28</text>
+<text x="352" y="715" font-family="Arial" font-size="10" text-anchor="end">Anaerotruncus_colihominis</text>
+<text x="10" y="715" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="700" width="90" height="20" fill="rgb(235,239,245)" stroke="white"/>
+<text x="406.0" y="714" font-family="Arial" font-size="9" text-anchor="middle">-0.08</text>
+<rect x="452" y="700" width="90" height="20" fill="rgb(143,182,245)" stroke="white"/>
+<text x="498.0" y="714" font-family="Arial" font-size="9" text-anchor="middle">-0.85</text>
+<rect x="544" y="700" width="90" height="20" fill="rgb(213,225,245)" stroke="white"/>
+<text x="590.0" y="714" font-family="Arial" font-size="9" text-anchor="middle">-0.26</text>
+<rect x="636" y="700" width="90" height="20" fill="rgb(227,234,245)" stroke="white"/>
+<text x="682.0" y="714" font-family="Arial" font-size="9" text-anchor="middle">-0.15</text>
+<rect x="728" y="700" width="90" height="20" fill="rgb(205,221,245)" stroke="white"/>
+<text x="774.0" y="714" font-family="Arial" font-size="9" text-anchor="middle">-0.33</text>
+<rect x="820" y="700" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="912" y="700" width="90" height="20" fill="rgb(199,217,245)" stroke="white"/>
+<text x="958.0" y="714" font-family="Arial" font-size="9" text-anchor="middle">-0.38</text>
+<rect x="1004" y="700" width="90" height="20" fill="rgb(218,228,245)" stroke="white"/>
+<text x="1050.0" y="714" font-family="Arial" font-size="9" text-anchor="middle">-0.22</text>
+<rect x="1096" y="700" width="90" height="20" fill="rgb(245,244,243)" stroke="white"/>
+<text x="1142.0" y="714" font-family="Arial" font-size="9" text-anchor="middle">0.01</text>
+<text x="352" y="737" font-family="Arial" font-size="10" text-anchor="end">Parabacteroides_merdae</text>
+<text x="10" y="737" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="722" width="90" height="20" fill="rgb(245,232,230)" stroke="white"/>
+<text x="406.0" y="736" font-family="Arial" font-size="9" text-anchor="middle">0.12</text>
+<rect x="452" y="722" width="90" height="20" fill="rgb(164,195,245)" stroke="white"/>
+<text x="498.0" y="736" font-family="Arial" font-size="9" text-anchor="middle">-0.67</text>
+<rect x="544" y="722" width="90" height="20" fill="rgb(245,185,173)" stroke="white"/>
+<text x="590.0" y="736" font-family="Arial" font-size="9" text-anchor="middle">0.60</text>
+<rect x="636" y="722" width="90" height="20" fill="rgb(245,208,200)" stroke="white"/>
+<text x="682.0" y="736" font-family="Arial" font-size="9" text-anchor="middle">0.37</text>
+<rect x="728" y="722" width="90" height="20" fill="rgb(245,198,189)" stroke="white"/>
+<text x="774.0" y="736" font-family="Arial" font-size="9" text-anchor="middle">0.46</text>
+<rect x="820" y="722" width="90" height="20" fill="rgb(241,242,245)" stroke="white"/>
+<text x="866.0" y="736" font-family="Arial" font-size="9" text-anchor="middle">-0.03</text>
+<rect x="912" y="722" width="90" height="20" fill="rgb(245,185,174)" stroke="white"/>
+<text x="958.0" y="736" font-family="Arial" font-size="9" text-anchor="middle">0.59</text>
+<rect x="1004" y="722" width="90" height="20" fill="rgb(245,230,227)" stroke="white"/>
+<text x="1050.0" y="736" font-family="Arial" font-size="9" text-anchor="middle">0.15</text>
+<rect x="1096" y="722" width="90" height="20" fill="rgb(245,170,155)" stroke="white"/>
+<text x="1142.0" y="736" font-family="Arial" font-size="9" text-anchor="middle">0.74</text>
+<text x="352" y="759" font-family="Arial" font-size="10" text-anchor="end">Clostridium_sp_1001270H_150608_G6</text>
+<text x="10" y="759" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="744" width="90" height="20" fill="rgb(245,223,219)" stroke="white"/>
+<text x="406.0" y="758" font-family="Arial" font-size="9" text-anchor="middle">0.22</text>
+<rect x="452" y="744" width="90" height="20" fill="rgb(203,219,245)" stroke="white"/>
+<text x="498.0" y="758" font-family="Arial" font-size="9" text-anchor="middle">-0.35</text>
+<rect x="544" y="744" width="90" height="20" fill="rgb(245,206,198)" stroke="white"/>
+<text x="590.0" y="758" font-family="Arial" font-size="9" text-anchor="middle">0.39</text>
+<rect x="636" y="744" width="90" height="20" fill="rgb(244,244,245)" stroke="white"/>
+<text x="682.0" y="758" font-family="Arial" font-size="9" text-anchor="middle">-0.00</text>
+<rect x="728" y="744" width="90" height="20" fill="rgb(245,189,178)" stroke="white"/>
+<text x="774.0" y="758" font-family="Arial" font-size="9" text-anchor="middle">0.56</text>
+<rect x="820" y="744" width="90" height="20" fill="rgb(245,206,198)" stroke="white"/>
+<text x="866.0" y="758" font-family="Arial" font-size="9" text-anchor="middle">0.39</text>
+<rect x="912" y="744" width="90" height="20" fill="rgb(245,168,153)" stroke="white"/>
+<text x="958.0" y="758" font-family="Arial" font-size="9" text-anchor="middle">0.76</text>
+<rect x="1004" y="744" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1096" y="744" width="90" height="20" fill="rgb(245,244,244)" stroke="white"/>
+<text x="1142.0" y="758" font-family="Arial" font-size="9" text-anchor="middle">0.01</text>
+<text x="352" y="781" font-family="Arial" font-size="10" text-anchor="end">Desulfovibrio_SGB5077</text>
+<text x="10" y="781" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="766" width="90" height="20" fill="rgb(245,242,241)" stroke="white"/>
+<text x="406.0" y="780" font-family="Arial" font-size="9" text-anchor="middle">0.03</text>
+<rect x="452" y="766" width="90" height="20" fill="rgb(245,207,200)" stroke="white"/>
+<text x="498.0" y="780" font-family="Arial" font-size="9" text-anchor="middle">0.37</text>
+<rect x="544" y="766" width="90" height="20" fill="rgb(245,173,159)" stroke="white"/>
+<text x="590.0" y="780" font-family="Arial" font-size="9" text-anchor="middle">0.71</text>
+<rect x="636" y="766" width="90" height="20" fill="rgb(239,241,245)" stroke="white"/>
+<text x="682.0" y="780" font-family="Arial" font-size="9" text-anchor="middle">-0.05</text>
+<rect x="728" y="766" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="820" y="766" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="912" y="766" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1004" y="766" width="90" height="20" fill="rgb(245,187,175)" stroke="white"/>
+<text x="1050.0" y="780" font-family="Arial" font-size="9" text-anchor="middle">0.58</text>
+<rect x="1096" y="766" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="803" font-family="Arial" font-size="10" text-anchor="end">Lacrimispora_celerecrescens</text>
+<text x="10" y="803" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="788" width="90" height="20" fill="rgb(245,228,224)" stroke="white"/>
+<text x="406.0" y="802" font-family="Arial" font-size="9" text-anchor="middle">0.17</text>
+<rect x="452" y="788" width="90" height="20" fill="rgb(245,197,188)" stroke="white"/>
+<text x="498.0" y="802" font-family="Arial" font-size="9" text-anchor="middle">0.47</text>
+<rect x="544" y="788" width="90" height="20" fill="rgb(245,231,229)" stroke="white"/>
+<text x="590.0" y="802" font-family="Arial" font-size="9" text-anchor="middle">0.13</text>
+<rect x="636" y="788" width="90" height="20" fill="rgb(245,244,244)" stroke="white"/>
+<text x="682.0" y="802" font-family="Arial" font-size="9" text-anchor="middle">0.00</text>
+<rect x="728" y="788" width="90" height="20" fill="rgb(245,183,171)" stroke="white"/>
+<text x="774.0" y="802" font-family="Arial" font-size="9" text-anchor="middle">0.61</text>
+<rect x="820" y="788" width="90" height="20" fill="rgb(245,211,204)" stroke="white"/>
+<text x="866.0" y="802" font-family="Arial" font-size="9" text-anchor="middle">0.34</text>
+<rect x="912" y="788" width="90" height="20" fill="rgb(245,186,174)" stroke="white"/>
+<text x="958.0" y="802" font-family="Arial" font-size="9" text-anchor="middle">0.58</text>
+<rect x="1004" y="788" width="90" height="20" fill="rgb(236,239,245)" stroke="white"/>
+<text x="1050.0" y="802" font-family="Arial" font-size="9" text-anchor="middle">-0.07</text>
+<rect x="1096" y="788" width="90" height="20" fill="rgb(168,198,245)" stroke="white"/>
+<text x="1142.0" y="802" font-family="Arial" font-size="9" text-anchor="middle">-0.64</text>
+<text x="352" y="825" font-family="Arial" font-size="10" text-anchor="end">Roseburia_faecis</text>
+<text x="10" y="825" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="810" width="90" height="20" fill="rgb(245,220,215)" stroke="white"/>
+<text x="406.0" y="824" font-family="Arial" font-size="9" text-anchor="middle">0.25</text>
+<rect x="452" y="810" width="90" height="20" fill="rgb(245,198,189)" stroke="white"/>
+<text x="498.0" y="824" font-family="Arial" font-size="9" text-anchor="middle">0.47</text>
+<rect x="544" y="810" width="90" height="20" fill="rgb(245,220,215)" stroke="white"/>
+<text x="590.0" y="824" font-family="Arial" font-size="9" text-anchor="middle">0.25</text>
+<rect x="636" y="810" width="90" height="20" fill="rgb(245,202,194)" stroke="white"/>
+<text x="682.0" y="824" font-family="Arial" font-size="9" text-anchor="middle">0.42</text>
+<rect x="728" y="810" width="90" height="20" fill="rgb(245,234,232)" stroke="white"/>
+<text x="774.0" y="824" font-family="Arial" font-size="9" text-anchor="middle">0.10</text>
+<rect x="820" y="810" width="90" height="20" fill="rgb(245,211,205)" stroke="white"/>
+<text x="866.0" y="824" font-family="Arial" font-size="9" text-anchor="middle">0.33</text>
+<rect x="912" y="810" width="90" height="20" fill="rgb(245,217,212)" stroke="white"/>
+<text x="958.0" y="824" font-family="Arial" font-size="9" text-anchor="middle">0.27</text>
+<rect x="1004" y="810" width="90" height="20" fill="rgb(223,231,245)" stroke="white"/>
+<text x="1050.0" y="824" font-family="Arial" font-size="9" text-anchor="middle">-0.18</text>
+<rect x="1096" y="810" width="90" height="20" fill="rgb(100,156,245)" stroke="white"/>
+<text x="1142.0" y="824" font-family="Arial" font-size="9" text-anchor="middle">-1.21</text>
+<text x="352" y="847" font-family="Arial" font-size="10" text-anchor="end">Veillonella_dispar</text>
+<text x="10" y="847" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="832" width="90" height="20" fill="rgb(214,226,245)" stroke="white"/>
+<text x="406.0" y="846" font-family="Arial" font-size="9" text-anchor="middle">-0.26</text>
+<rect x="452" y="832" width="90" height="20" fill="rgb(244,244,245)" stroke="white"/>
+<text x="498.0" y="846" font-family="Arial" font-size="9" text-anchor="middle">-0.00</text>
+<rect x="544" y="832" width="90" height="20" fill="rgb(245,184,172)" stroke="white"/>
+<text x="590.0" y="846" font-family="Arial" font-size="9" text-anchor="middle">0.60</text>
+<rect x="636" y="832" width="90" height="20" fill="rgb(185,208,245)" stroke="white"/>
+<text x="682.0" y="846" font-family="Arial" font-size="9" text-anchor="middle">-0.49</text>
+<rect x="728" y="832" width="90" height="20" fill="rgb(153,189,245)" stroke="white"/>
+<text x="774.0" y="846" font-family="Arial" font-size="9" text-anchor="middle">-0.76</text>
+<rect x="820" y="832" width="90" height="20" fill="rgb(224,232,245)" stroke="white"/>
+<text x="866.0" y="846" font-family="Arial" font-size="9" text-anchor="middle">-0.17</text>
+<rect x="912" y="832" width="90" height="20" fill="rgb(245,241,240)" stroke="white"/>
+<text x="958.0" y="846" font-family="Arial" font-size="9" text-anchor="middle">0.04</text>
+<rect x="1004" y="832" width="90" height="20" fill="rgb(180,205,245)" stroke="white"/>
+<text x="1050.0" y="846" font-family="Arial" font-size="9" text-anchor="middle">-0.53</text>
+<rect x="1096" y="832" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="869" font-family="Arial" font-size="10" text-anchor="end">GGB9345_SGB14311</text>
+<text x="10" y="869" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="854" width="90" height="20" fill="rgb(245,233,230)" stroke="white"/>
+<text x="406.0" y="868" font-family="Arial" font-size="9" text-anchor="middle">0.12</text>
+<rect x="452" y="854" width="90" height="20" fill="rgb(245,168,153)" stroke="white"/>
+<text x="498.0" y="868" font-family="Arial" font-size="9" text-anchor="middle">0.76</text>
+<rect x="544" y="854" width="90" height="20" fill="rgb(245,223,219)" stroke="white"/>
+<text x="590.0" y="868" font-family="Arial" font-size="9" text-anchor="middle">0.22</text>
+<rect x="636" y="854" width="90" height="20" fill="rgb(245,237,235)" stroke="white"/>
+<text x="682.0" y="868" font-family="Arial" font-size="9" text-anchor="middle">0.08</text>
+<rect x="728" y="854" width="90" height="20" fill="rgb(245,187,176)" stroke="white"/>
+<text x="774.0" y="868" font-family="Arial" font-size="9" text-anchor="middle">0.57</text>
+<rect x="820" y="854" width="90" height="20" fill="rgb(245,220,215)" stroke="white"/>
+<text x="866.0" y="868" font-family="Arial" font-size="9" text-anchor="middle">0.25</text>
+<rect x="912" y="854" width="90" height="20" fill="rgb(235,239,245)" stroke="white"/>
+<text x="958.0" y="868" font-family="Arial" font-size="9" text-anchor="middle">-0.08</text>
+<rect x="1004" y="854" width="90" height="20" fill="rgb(245,227,223)" stroke="white"/>
+<text x="1050.0" y="868" font-family="Arial" font-size="9" text-anchor="middle">0.18</text>
+<rect x="1096" y="854" width="90" height="20" fill="rgb(191,212,245)" stroke="white"/>
+<text x="1142.0" y="868" font-family="Arial" font-size="9" text-anchor="middle">-0.44</text>
+<text x="352" y="891" font-family="Arial" font-size="10" text-anchor="end">Lactococcus_lactis</text>
+<text x="10" y="891" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="876" width="90" height="20" fill="rgb(245,230,227)" stroke="white"/>
+<text x="406.0" y="890" font-family="Arial" font-size="9" text-anchor="middle">0.15</text>
+<rect x="452" y="876" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="876" width="90" height="20" fill="rgb(234,238,245)" stroke="white"/>
+<text x="590.0" y="890" font-family="Arial" font-size="9" text-anchor="middle">-0.09</text>
+<rect x="636" y="876" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="728" y="876" width="90" height="20" fill="rgb(245,213,207)" stroke="white"/>
+<text x="774.0" y="890" font-family="Arial" font-size="9" text-anchor="middle">0.31</text>
+<rect x="820" y="876" width="90" height="20" fill="rgb(245,228,225)" stroke="white"/>
+<text x="866.0" y="890" font-family="Arial" font-size="9" text-anchor="middle">0.16</text>
+<rect x="912" y="876" width="90" height="20" fill="rgb(245,195,185)" stroke="white"/>
+<text x="958.0" y="890" font-family="Arial" font-size="9" text-anchor="middle">0.49</text>
+<rect x="1004" y="876" width="90" height="20" fill="rgb(245,191,180)" stroke="white"/>
+<text x="1050.0" y="890" font-family="Arial" font-size="9" text-anchor="middle">0.53</text>
+<rect x="1096" y="876" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="913" font-family="Arial" font-size="10" text-anchor="end">Massilimicrobiota_timonensis</text>
+<text x="10" y="913" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="898" width="90" height="20" fill="rgb(200,217,245)" stroke="white"/>
+<text x="406.0" y="912" font-family="Arial" font-size="9" text-anchor="middle">-0.37</text>
+<rect x="452" y="898" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="898" width="90" height="20" fill="rgb(245,230,227)" stroke="white"/>
+<text x="590.0" y="912" font-family="Arial" font-size="9" text-anchor="middle">0.15</text>
+<rect x="636" y="898" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="728" y="898" width="90" height="20" fill="rgb(239,241,245)" stroke="white"/>
+<text x="774.0" y="912" font-family="Arial" font-size="9" text-anchor="middle">-0.05</text>
+<rect x="820" y="898" width="90" height="20" fill="rgb(184,208,245)" stroke="white"/>
+<text x="866.0" y="912" font-family="Arial" font-size="9" text-anchor="middle">-0.50</text>
+<rect x="912" y="898" width="90" height="20" fill="rgb(209,223,245)" stroke="white"/>
+<text x="958.0" y="912" font-family="Arial" font-size="9" text-anchor="middle">-0.30</text>
+<rect x="1004" y="898" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1096" y="898" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="935" font-family="Arial" font-size="10" text-anchor="end">Eubacterium_sp_AF16_48</text>
+<text x="10" y="935" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="920" width="90" height="20" fill="rgb(195,214,245)" stroke="white"/>
+<text x="406.0" y="934" font-family="Arial" font-size="9" text-anchor="middle">-0.41</text>
+<rect x="452" y="920" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="920" width="90" height="20" fill="rgb(245,238,236)" stroke="white"/>
+<text x="590.0" y="934" font-family="Arial" font-size="9" text-anchor="middle">0.07</text>
+<rect x="636" y="920" width="90" height="20" fill="rgb(203,219,245)" stroke="white"/>
+<text x="682.0" y="934" font-family="Arial" font-size="9" text-anchor="middle">-0.34</text>
+<rect x="728" y="920" width="90" height="20" fill="rgb(240,242,245)" stroke="white"/>
+<text x="774.0" y="934" font-family="Arial" font-size="9" text-anchor="middle">-0.04</text>
+<rect x="820" y="920" width="90" height="20" fill="rgb(225,233,245)" stroke="white"/>
+<text x="866.0" y="934" font-family="Arial" font-size="9" text-anchor="middle">-0.16</text>
+<rect x="912" y="920" width="90" height="20" fill="rgb(163,194,245)" stroke="white"/>
+<text x="958.0" y="934" font-family="Arial" font-size="9" text-anchor="middle">-0.68</text>
+<rect x="1004" y="920" width="90" height="20" fill="rgb(240,242,245)" stroke="white"/>
+<text x="1050.0" y="934" font-family="Arial" font-size="9" text-anchor="middle">-0.04</text>
+<rect x="1096" y="920" width="90" height="20" fill="rgb(245,243,243)" stroke="white"/>
+<text x="1142.0" y="934" font-family="Arial" font-size="9" text-anchor="middle">0.01</text>
+<text x="352" y="957" font-family="Arial" font-size="10" text-anchor="end">Hungatella_hathewayi</text>
+<text x="10" y="957" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="942" width="90" height="20" fill="rgb(209,223,245)" stroke="white"/>
+<text x="406.0" y="956" font-family="Arial" font-size="9" text-anchor="middle">-0.30</text>
+<rect x="452" y="942" width="90" height="20" fill="rgb(241,243,245)" stroke="white"/>
+<text x="498.0" y="956" font-family="Arial" font-size="9" text-anchor="middle">-0.03</text>
+<rect x="544" y="942" width="90" height="20" fill="rgb(207,222,245)" stroke="white"/>
+<text x="590.0" y="956" font-family="Arial" font-size="9" text-anchor="middle">-0.31</text>
+<rect x="636" y="942" width="90" height="20" fill="rgb(240,242,245)" stroke="white"/>
+<text x="682.0" y="956" font-family="Arial" font-size="9" text-anchor="middle">-0.04</text>
+<rect x="728" y="942" width="90" height="20" fill="rgb(229,235,245)" stroke="white"/>
+<text x="774.0" y="956" font-family="Arial" font-size="9" text-anchor="middle">-0.13</text>
+<rect x="820" y="942" width="90" height="20" fill="rgb(187,209,245)" stroke="white"/>
+<text x="866.0" y="956" font-family="Arial" font-size="9" text-anchor="middle">-0.48</text>
+<rect x="912" y="942" width="90" height="20" fill="rgb(194,214,245)" stroke="white"/>
+<text x="958.0" y="956" font-family="Arial" font-size="9" text-anchor="middle">-0.42</text>
+<rect x="1004" y="942" width="90" height="20" fill="rgb(216,227,245)" stroke="white"/>
+<text x="1050.0" y="956" font-family="Arial" font-size="9" text-anchor="middle">-0.24</text>
+<rect x="1096" y="942" width="90" height="20" fill="rgb(245,239,238)" stroke="white"/>
+<text x="1142.0" y="956" font-family="Arial" font-size="9" text-anchor="middle">0.06</text>
+<text x="352" y="979" font-family="Arial" font-size="10" text-anchor="end">Dorea_formicigenerans</text>
+<text x="10" y="979" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="964" width="90" height="20" fill="rgb(245,224,220)" stroke="white"/>
+<text x="406.0" y="978" font-family="Arial" font-size="9" text-anchor="middle">0.20</text>
+<rect x="452" y="964" width="90" height="20" fill="rgb(245,242,242)" stroke="white"/>
+<text x="498.0" y="978" font-family="Arial" font-size="9" text-anchor="middle">0.02</text>
+<rect x="544" y="964" width="90" height="20" fill="rgb(245,207,199)" stroke="white"/>
+<text x="590.0" y="978" font-family="Arial" font-size="9" text-anchor="middle">0.38</text>
+<rect x="636" y="964" width="90" height="20" fill="rgb(245,237,235)" stroke="white"/>
+<text x="682.0" y="978" font-family="Arial" font-size="9" text-anchor="middle">0.08</text>
+<rect x="728" y="964" width="90" height="20" fill="rgb(245,217,212)" stroke="white"/>
+<text x="774.0" y="978" font-family="Arial" font-size="9" text-anchor="middle">0.27</text>
+<rect x="820" y="964" width="90" height="20" fill="rgb(245,232,230)" stroke="white"/>
+<text x="866.0" y="978" font-family="Arial" font-size="9" text-anchor="middle">0.12</text>
+<rect x="912" y="964" width="90" height="20" fill="rgb(245,171,156)" stroke="white"/>
+<text x="958.0" y="978" font-family="Arial" font-size="9" text-anchor="middle">0.73</text>
+<rect x="1004" y="964" width="90" height="20" fill="rgb(245,193,182)" stroke="white"/>
+<text x="1050.0" y="978" font-family="Arial" font-size="9" text-anchor="middle">0.52</text>
+<rect x="1096" y="964" width="90" height="20" fill="rgb(215,227,245)" stroke="white"/>
+<text x="1142.0" y="978" font-family="Arial" font-size="9" text-anchor="middle">-0.25</text>
+<text x="352" y="1001" font-family="Arial" font-size="10" text-anchor="end">GGB9694_SGB15204</text>
+<text x="10" y="1001" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="986" width="90" height="20" fill="rgb(245,208,201)" stroke="white"/>
+<text x="406.0" y="1000" font-family="Arial" font-size="9" text-anchor="middle">0.36</text>
+<rect x="452" y="986" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="986" width="90" height="20" fill="rgb(245,199,190)" stroke="white"/>
+<text x="590.0" y="1000" font-family="Arial" font-size="9" text-anchor="middle">0.45</text>
+<rect x="636" y="986" width="90" height="20" fill="rgb(245,229,226)" stroke="white"/>
+<text x="682.0" y="1000" font-family="Arial" font-size="9" text-anchor="middle">0.15</text>
+<rect x="728" y="986" width="90" height="20" fill="rgb(245,242,242)" stroke="white"/>
+<text x="774.0" y="1000" font-family="Arial" font-size="9" text-anchor="middle">0.02</text>
+<rect x="820" y="986" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="912" y="986" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1004" y="986" width="90" height="20" fill="rgb(245,225,221)" stroke="white"/>
+<text x="1050.0" y="1000" font-family="Arial" font-size="9" text-anchor="middle">0.19</text>
+<rect x="1096" y="986" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<text x="352" y="1023" font-family="Arial" font-size="10" text-anchor="end">GGB3444_SGB4594</text>
+<text x="10" y="1023" font-family="Arial" font-size="9">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="360" y="1008" width="90" height="20" fill="rgb(236,239,245)" stroke="white"/>
+<text x="406.0" y="1022" font-family="Arial" font-size="9" text-anchor="middle">-0.07</text>
+<rect x="452" y="1008" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="544" y="1008" width="90" height="20" fill="rgb(245,231,229)" stroke="white"/>
+<text x="590.0" y="1022" font-family="Arial" font-size="9" text-anchor="middle">0.13</text>
+<rect x="636" y="1008" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="728" y="1008" width="90" height="20" fill="rgb(198,216,245)" stroke="white"/>
+<text x="774.0" y="1022" font-family="Arial" font-size="9" text-anchor="middle">-0.38</text>
+<rect x="820" y="1008" width="90" height="20" fill="rgb(229,235,245)" stroke="white"/>
+<text x="866.0" y="1022" font-family="Arial" font-size="9" text-anchor="middle">-0.13</text>
+<rect x="912" y="1008" width="90" height="20" fill="#eeeeee" stroke="white"/>
+<rect x="1004" y="1008" width="90" height="20" fill="rgb(125,171,245)" stroke="white"/>
+<text x="1050.0" y="1022" font-family="Arial" font-size="9" text-anchor="middle">-1.00</text>
+<rect x="1096" y="1008" width="90" height="20" fill="#eeeeee" stroke="white"/>
+</svg>

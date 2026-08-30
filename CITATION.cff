@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: "Reproducibility release for \"Validation hierarchy and directed transfer reveal limited gut microbiome signature transportability across melanoma immunotherapy cohorts\""
+version: 1.0.0
+license: MIT
+type: software
+abstract: >-
+  Version-locked reproducibility companion for an individual-participant-level secondary analysis of pretreatment gut shotgun metagenomes from melanoma immunotherapy cohorts. The release contains privacy-safe derived inputs, frozen result tables, analysis and reproduction code, software-environment information, and figure-source materials. Project-created derived tables, figures, and documentation are licensed separately under CC BY 4.0; raw public sequencing data are not redistributed or relicensed.
+message: "If you use this reproducibility release, please cite this software archive and the associated article."
+authors:
+  - given-names: "Zengzhi"
+    family-names: "Li"
+    affiliation: "Department of Surgery, Guang’an Hospital of Traditional Chinese Medicine, Guang’an, Sichuan, China"
+  - given-names: "Yangming"
+    family-names: "Liu"
+    affiliation: "Department of Obstetrics, The Affiliated Banan Hospital of Chongqing Medical University (People’s Hospital of Banan District), Chongqing, China"
+  - given-names: "Po"
+    family-names: "Liang"
+    affiliation: "Department of General Practice, People’s Hospital of Chongqing Hechuan, Chongqing, China"
+  - given-names: "Zhangjun"
+    family-names: "Wei"
+    affiliation: "Department of Hepatobiliary Surgery, Shapingba Hospital Affiliated to Chongqing University (Shapingba District People’s Hospital of Chongqing), Chongqing, China"
+  - given-names: "Kai"
+    family-names: "Deng"
+    affiliation: "Department of General Surgery, The First Affiliated Hospital of Chongqing Medical and Pharmaceutical College, Chongqing, China"
+  - given-names: "Zhuoren"
+    family-names: "Cheng"
+    affiliation: "Department of Hepatobiliary Surgery, Shapingba Hospital Affiliated to Chongqing University (Shapingba District People’s Hospital of Chongqing), Chongqing, China"
+  - given-names: "Ping"
+    family-names: "Che"
+    affiliation: "Department of Hepatobiliary Surgery, Shapingba Hospital Affiliated to Chongqing University (Shapingba District People’s Hospital of Chongqing), Chongqing, China"
+    orcid: "https://orcid.org/0009-0007-4037-9982"
+    email: "dr.che@cqu.edu.cn"
+repository-code: "https://github.com/dr-che/microbiome-ici-transportability"
+keywords:
+  - melanoma
+  - immune checkpoint inhibitors
+  - gut microbiome
+  - shotgun metagenomics
+  - transportability
+  - external validation
+  - domain adaptation

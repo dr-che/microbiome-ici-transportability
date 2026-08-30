@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="20" y="30" font-family="Arial" font-size="20" font-weight="bold">Primary species classification counts</text>
+<text x="300" y="131.39999999999998" font-family="Arial" font-size="12" text-anchor="end">OTHER_OR_INSUFFICIENT</text>
+<rect x="310" y="63" width="610.0" height="96" fill="#777"/>
+<text x="928.0" y="131.39999999999998" font-family="Arial" font-size="12">462</text>
+<text x="300" y="233.39999999999998" font-family="Arial" font-size="12" text-anchor="end">CONSISTENT_NONSIGNIFICANT</text>
+<rect x="310" y="165" width="99.02597402597402" height="96" fill="#777"/>
+<text x="417.02597402597405" y="233.39999999999998" font-family="Arial" font-size="12">75</text>
+<text x="300" y="335.4" font-family="Arial" font-size="12" text-anchor="end">DOMAIN_SPECIFIC</text>
+<rect x="310" y="267" width="13.203463203463203" height="96" fill="#777"/>
+<text x="331.20346320346323" y="335.4" font-family="Arial" font-size="12">10</text>
+<text x="300" y="437.4" font-family="Arial" font-size="12" text-anchor="end">STRONG_DIRECTION_REVERSAL</text>
+<rect x="310" y="369" width="9.242424242424242" height="96" fill="#777"/>
+<text x="327.24242424242425" y="437.4" font-family="Arial" font-size="12">7</text>
+</svg>

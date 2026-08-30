@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "fold_metric_rows": 280,
+  "pooled_metric_rows": 40,
+  "comparison_rows": 280,
+  "interpretation": "Secondary adaptation benchmark only. Standard mode is transductive; online mode uses an unlabeled target batch at deployment."
+}

@@ -1,0 +1,16 @@
+{
+  "analysis": "Analysis4_effective_independence_uncertainty_inference_boundary",
+  "created_utc": "2026-08-01T15:00:00Z",
+  "seed": 20260801,
+  "bootstrap_repetitions": 1000,
+  "qap_repetitions": 10000,
+  "patient_n": 363,
+  "domain_n": 9,
+  "publication_family_n": 5,
+  "directed_pair_n": 72,
+  "reciprocal_pair_n": 36,
+  "target_bootstrap_scope": "Target-patient sampling uncertainty with source models frozen",
+  "metrics_sha256": "2b650a1d27b68de66b4a57d5b580ee954968276001c830a1ddc652f6c3a2fe5a",
+  "predictions_sha256": "600effd12b0cfb43f59246842a29af703c672cbfa3a3d48fd1b6fd93cdf033f7",
+  "continuation_runtime_seconds": 1.4119737148284912
+}

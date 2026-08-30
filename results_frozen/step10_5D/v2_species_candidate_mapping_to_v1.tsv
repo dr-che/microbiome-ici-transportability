@@ -1,0 +1,23 @@
+v2_category	v2_species	canonical_name	v1_species_feature	mapped
+E1	s__Veillonella_atypica	veillonella atypica	species:Veillonella atypica	1
+E1	s__Faecalibacillus_intestinalis	faecalibacillus intestinalis		0
+E1	s__Streptococcus_SGB14888	streptococcus sgb14888		0
+E1	s__Anaerotruncus_colihominis	anaerotruncus colihominis	species:Anaerotruncus colihominis	1
+E1	s__Lacrimispora_celerecrescens	lacrimispora celerecrescens		0
+REVERSAL	s__Blautia_luti	blautia luti		0
+REVERSAL	s__Roseburia_sp_AF02_12	roseburia sp af02 12		0
+REVERSAL	s__Klebsiella_pneumoniae	klebsiella pneumoniae	species:Klebsiella pneumoniae	1
+REVERSAL	s__GGB51647_SGB4348	ggb51647 sgb4348		0
+REVERSAL	s__Adlercreutzia_equolifaciens	adlercreutzia equolifaciens	species:Adlercreutzia equolifaciens	1
+REVERSAL	s__Bifidobacterium_adolescentis	bifidobacterium adolescentis	species:Bifidobacterium adolescentis	1
+REVERSAL	s__GGB3005_SGB3996	ggb3005 sgb3996		0
+DOMAIN_SPECIFIC	s__GGB3321_SGB4394	ggb3321 sgb4394		0
+DOMAIN_SPECIFIC	s__Bacteroides_eggerthii	bacteroides eggerthii	species:Bacteroides eggerthii	1
+DOMAIN_SPECIFIC	s__Eisenbergiella_massiliensis	eisenbergiella massiliensis	species:Eisenbergiella massiliensis	1
+DOMAIN_SPECIFIC	s__Holdemania_filiformis	holdemania filiformis	species:Holdemania filiformis	1
+DOMAIN_SPECIFIC	s__Actinomyces_graevenitzii	actinomyces graevenitzii	species:Actinomyces graevenitzii	1
+DOMAIN_SPECIFIC	s__Phascolarctobacterium_SGB4573	phascolarctobacterium sgb4573		0
+DOMAIN_SPECIFIC	s__GGB45495_SGB63167	ggb45495 sgb63167		0
+DOMAIN_SPECIFIC	s__Desulfovibrio_piger	desulfovibrio piger	species:Desulfovibrio piger	1
+DOMAIN_SPECIFIC	s__GGB9767_SGB15385	ggb9767 sgb15385		0
+DOMAIN_SPECIFIC	s__Lacrimispora_amygdalina	lacrimispora amygdalina		0

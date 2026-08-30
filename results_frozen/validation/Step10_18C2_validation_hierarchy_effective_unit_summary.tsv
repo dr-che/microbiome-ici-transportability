@@ -1,0 +1,2 @@
+comparison	sitewise_or_reference_value	family_holdout_or_comparison_value	paired_mean_difference	jackknife_95_ci_low	jackknife_95_ci_high	exact_two_sided_signflip_p	role
+Lee-family site-wise pooled LODO vs joint publication-family holdout	0.587	0.437	0.030	-0.053	0.113	1.000	reporting/provenance-only; introduces no new inference

@@ -1,0 +1,2 @@
+observed_same_minus_cross_mean_auc	same_endpoint_pairs	cross_endpoint_pairs	same_endpoint_mean_auc	cross_endpoint_mean_auc	permutation_n	qap_two_sided_p	qap_one_sided_p_same_higher	null_mean	null_sd
+0.04078843525398901	44	28	0.5049835867759422	0.46419515152195323	10000	0.1655834416558344	0.08339166083391661	0.00020281782433438858	0.03305780423755012

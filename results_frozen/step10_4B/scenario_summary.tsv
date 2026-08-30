@@ -1,0 +1,5 @@
+﻿scenario	manifest_file	n	responders	non_responders	domains	domain_list
+PRIMARY	Step10_2_manifest_R3_primary_lock_v8.tsv	363	217	146	9	Frankel_US;Gopalakrishnan_US;Lee_Barcelona;Lee_Leeds;Lee_Manchester;Lee_PRIMM_NL;Lee_PRIMM_UK;Matson_US;Spencer_US
+S1_EXCLUDE_BCN12	Step10_2_manifest_R3_sensitivity_S1_exclude_BCN12_v8.tsv	362	216	146	9	Frankel_US;Gopalakrishnan_US;Lee_Barcelona;Lee_Leeds;Lee_Manchester;Lee_PRIMM_NL;Lee_PRIMM_UK;Matson_US;Spencer_US
+S2_BCN12_AS_NR	Step10_2_manifest_R3_sensitivity_S2_BCN12_as_NR_v8.tsv	363	216	147	9	Frankel_US;Gopalakrishnan_US;Lee_Barcelona;Lee_Leeds;Lee_Manchester;Lee_PRIMM_NL;Lee_PRIMM_UK;Matson_US;Spencer_US
+S3_EXCLUDE_LEE_SITES	Step10_2_manifest_R3_sensitivity_S3_exclude_Lee_sites_v8.tsv	326	199	127	7	Frankel_US;Gopalakrishnan_US;Lee_Leeds;Lee_PRIMM_NL;Lee_PRIMM_UK;Matson_US;Spencer_US

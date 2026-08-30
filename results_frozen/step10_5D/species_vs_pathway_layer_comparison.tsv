@@ -1,0 +1,3 @@
+layer	features_meta_analyzed	nominal_p_lt_0_05	nominal_p_lt_0_10	fdr_q_lt_0_10	median_I2	I2_ge_50	I2_ge_75	mean_sign_consistency	strong_reversal	study_specific
+Community pathways	319	0	1	0	4.8034124746456675	17	1	0.7172413793103447	3	21
+Species	216	2	6	0	0.0	23	1	0.7183641975308643	2	25

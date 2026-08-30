@@ -1,0 +1,16 @@
+{
+  "n_domains": 9,
+  "n_directed_pairs": 72,
+  "r_squared": 0.06607015804694749,
+  "design_condition_number": 3.146060820613951,
+  "predictors": [
+    "aitchison_centroid_distance",
+    "same_study_family",
+    "same_country",
+    "same_treatment_scope_group",
+    "absolute_response_rate_difference",
+    "log_train_n",
+    "log_test_n"
+  ],
+  "interpretation": "Exploratory multiple-regression QAP; only nine domains. Coefficients must not be treated as causal effects."
+}

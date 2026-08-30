@@ -1,0 +1,5 @@
+﻿scenario	n	responders	non_responders	domains	families
+PRIMARY	363	217	146	9	5
+S1_EXCLUDE_BCN12	362	216	146	9	5
+S2_BCN12_AS_NR	363	216	147	9	5
+S3_EXCLUDE_LEE_SITES	326	199	127	7	5

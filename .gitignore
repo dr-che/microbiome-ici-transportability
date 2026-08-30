@@ -1,0 +1,11 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+
+# Local runtime artifacts
+*.log
+*.tmp
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db

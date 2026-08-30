@@ -1,0 +1,10 @@
+domain_id	n	responders	non_responders	endpoint_class	source_basis	patient_level_endpoint_evidence_available	endpoint_ambiguous_records
+Frankel_US	39	24	15	RECIST_ORR_PROGRESSION	RECIST-based response versus progressive disease in source study	0	0
+Gopalakrishnan_US	25	14	11	DCB6_COMPATIBLE	CR/PR or stable disease >=6 months versus progression/SD <6 months	0	0
+Lee_Barcelona	12	6	6	DCB6_COMPATIBLE	Lee clinical-benefit/ORR harmonization; patient-level RECIST evidence available	1	1
+Lee_Leeds	18	10	8	DCB6_COMPATIBLE	Lee clinical-benefit/ORR harmonization; aggregate-concordant labels	0	0
+Lee_Manchester	25	12	13	DCB6_COMPATIBLE	Lee clinical-benefit/ORR harmonization; patient-level RECIST evidence available	1	0
+Lee_PRIMM_NL	55	33	22	DCB6_COMPATIBLE	Lee clinical-benefit/ORR harmonization; aggregate-concordant labels	0	0
+Lee_PRIMM_UK	54	33	21	DCB6_COMPATIBLE	Lee clinical-benefit/ORR harmonization; aggregate-concordant labels	0	0
+Matson_US	38	14	24	RECIST_ORR_PROGRESSION	Official patient-level Response field; RECIST 1.1 source assessment	1	0
+Spencer_US	97	71	26	DCB6_COMPATIBLE	CR/PR or stable disease >=6 months in the source clinical-response definition	0	0

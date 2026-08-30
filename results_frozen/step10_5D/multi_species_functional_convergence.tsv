@@ -1,0 +1,45 @@
+pathway	candidate_species_count	candidate_species	mean_abs_partial_rho	mean_abs_effect_rho
+PWY-6549: L-glutamine biosynthesis III	1	species:Bifidobacterium adolescentis	0.4631360092583912	0.6
+PWY66-400: glycolysis VI (metazoan)	1	species:Bifidobacterium adolescentis	0.4496726950794155	0.8
+ORNDEG-PWY: superpathway of ornithine degradation	1	species:Klebsiella pneumoniae	0.44428110381588376	0.9
+ARGDEG-PWY: superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation	1	species:Klebsiella pneumoniae	0.440017977358768	0.9
+ORNARGDEG-PWY: superpathway of L-arginine and L-ornithine degradation	1	species:Klebsiella pneumoniae	0.440017977358768	0.9
+PWY-5173: superpathway of acetyl-CoA biosynthesis	1	species:Klebsiella pneumoniae	0.4148092007582748	0.7000000000000001
+P122-PWY: heterolactic fermentation	1	species:Klebsiella pneumoniae	0.41394963408470553	0.7000000000000001
+AST-PWY: L-arginine degradation II (AST pathway)	1	species:Klebsiella pneumoniae	0.41394952580994654	0.7
+HCAMHPDEG-PWY: 3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate	1	species:Klebsiella pneumoniae	0.40972529446697326	0.7000000000000001
+PWY-6690: cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate	1	species:Klebsiella pneumoniae	0.40972529446697326	0.7000000000000001
+PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV	1	species:Bifidobacterium adolescentis	0.40942390701698217	0.6
+REDCITCYC: TCA cycle VIII (helicobacter)	1	species:Klebsiella pneumoniae	0.40803331340252047	0.6000000000000001
+PWY0-1319: CDP-diacylglycerol biosynthesis II	1	species:Bifidobacterium adolescentis	0.40622299239730175	0.9
+PWY-5667: CDP-diacylglycerol biosynthesis I	1	species:Bifidobacterium adolescentis	0.4061615456511146	0.9
+PWY0-1277: 3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	1	species:Klebsiella pneumoniae	0.40295706889948935	0.7000000000000001
+PWY-7254: TCA cycle VII (acetate-producers)	1	species:Klebsiella pneumoniae	0.39963716805475513	1.0
+PWY-6629: superpathway of L-tryptophan biosynthesis	1	species:Klebsiella pneumoniae	0.3974809032708337	0.7
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I	1	species:Bifidobacterium adolescentis	0.3973130153929714	0.7999999999999999
+PWY-5723: Rubisco shunt	1	species:Klebsiella pneumoniae	0.3951661139463764	0.9
+GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass	1	species:Klebsiella pneumoniae	0.3933498500889673	0.7000000000000001
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA	1	species:Klebsiella pneumoniae	0.3911135875581406	0.7000000000000001
+PWY-6628: superpathway of L-phenylalanine biosynthesis	1	species:Klebsiella pneumoniae	0.3901947072410123	0.7000000000000001
+PWY0-1415: superpathway of heme biosynthesis from uroporphyrinogen-III	1	species:Klebsiella pneumoniae	0.3899399342099422	0.9
+PWY-6803: phosphatidylcholine acyl editing	1	species:Klebsiella pneumoniae	0.3894881983449169	0.7000000000000001
+PWY-6630: superpathway of L-tyrosine biosynthesis	1	species:Klebsiella pneumoniae	0.3888488859288134	0.7
+PWY-561: superpathway of glyoxylate cycle and fatty acid degradation	1	species:Klebsiella pneumoniae	0.3860618762184966	0.9
+P105-PWY: TCA cycle IV (2-oxoglutarate decarboxylase)	1	species:Klebsiella pneumoniae	0.3854155623313688	1.0
+GLYOXYLATE-BYPASS: glyoxylate cycle	1	species:Klebsiella pneumoniae	0.3807686650418969	0.7000000000000001
+LACTOSECAT-PWY: lactose and galactose degradation I	1	species:Bifidobacterium adolescentis	0.37718176154532995	0.8999999999999999
+PWY-5675: nitrate reduction V (assimilatory)	1	species:Klebsiella pneumoniae	0.37256720833517115	1.0
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)	1	species:Klebsiella pneumoniae	0.3665457471516841	0.7
+VALSYN-PWY: L-valine biosynthesis	1	species:Klebsiella pneumoniae	0.3665457471516841	0.7
+PWY-7111: pyruvate fermentation to isobutanol (engineered)	1	species:Klebsiella pneumoniae	0.3656723360291804	0.7
+PWY-5860: superpathway of demethylmenaquinol-6 biosynthesis I	1	species:Klebsiella pneumoniae	0.36285858367799967	0.6000000000000001
+PWY-5850: superpathway of menaquinol-6 biosynthesis I	1	species:Klebsiella pneumoniae	0.3614419391174028	0.6000000000000001
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate	1	species:Klebsiella pneumoniae	0.3599945577302393	0.7
+SO4ASSIM-PWY: sulfate reduction I (assimilatory)	1	species:Klebsiella pneumoniae	0.3597652977857195	0.7
+PWY-5747: 2-methylcitrate cycle II	1	species:Klebsiella pneumoniae	0.3586411434502031	0.7
+PWY-7221: guanosine ribonucleotides de novo biosynthesis	1	species:Klebsiella pneumoniae	0.3582270265301457	0.7
+PWY66-389: phytol degradation	1	species:Klebsiella pneumoniae	0.3571850950581352	0.6
+COA-PWY: coenzyme A biosynthesis I	1	species:Klebsiella pneumoniae	0.35718136751546814	0.9
+PWY-5896: superpathway of menaquinol-10 biosynthesis	1	species:Klebsiella pneumoniae	0.35692180812262386	0.6000000000000001
+PWY-5136: fatty acid &beta;-oxidation II (peroxisome)	1	species:Klebsiella pneumoniae	0.35652898116642207	0.8
+FAO-PWY: fatty acid &beta;-oxidation I	1	species:Klebsiella pneumoniae	0.3521845264634186	0.9

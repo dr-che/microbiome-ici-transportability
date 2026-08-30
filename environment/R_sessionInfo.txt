@@ -1,0 +1,103 @@
+R version 4.6.0 (2026-04-24 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8 
+[2] LC_CTYPE=Chinese (Simplified)_China.utf8   
+[3] LC_MONETARY=Chinese (Simplified)_China.utf8
+[4] LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats4    stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+ [1] vegan_2.7-5                     permute_0.9-10                 
+ [3] janitor_2.2.1                   data.table_1.18.4              
+ [5] lubridate_1.9.5                 forcats_1.0.1                  
+ [7] stringr_1.6.0                   dplyr_1.2.1                    
+ [9] purrr_1.2.2                     readr_2.2.0                    
+[11] tidyr_1.3.2                     tibble_3.3.1                   
+[13] ggplot2_4.0.3                   tidyverse_2.0.0                
+[15] curatedMetagenomicData_3.20.0   TreeSummarizedExperiment_2.20.0
+[17] Biostrings_2.80.1               XVector_0.52.0                 
+[19] SingleCellExperiment_1.34.0     SummarizedExperiment_1.42.0    
+[21] Biobase_2.72.0                  GenomicRanges_1.64.0           
+[23] Seqinfo_1.2.0                   IRanges_2.46.0                 
+[25] S4Vectors_0.50.1                BiocGenerics_0.58.1            
+[27] generics_0.1.4                  MatrixGenerics_1.24.0          
+[29] matrixStats_1.5.0              
+
+loaded via a namespace (and not attached):
+  [1] splines_4.6.0               filelock_1.0.3             
+  [3] hardhat_1.4.3               pROC_1.19.0.1              
+  [5] rpart_4.1.27                DirichletMultinomial_1.54.0
+  [7] lifecycle_1.0.5             httr2_1.2.3                
+  [9] doParallel_1.0.17           globals_0.19.1             
+ [11] lattice_0.22-9              MASS_7.3-65                
+ [13] MultiAssayExperiment_1.38.0 magrittr_2.0.5             
+ [15] yaml_2.3.12                 otel_0.2.0                 
+ [17] DBI_1.3.0                   RColorBrewer_1.1-3         
+ [19] abind_1.4-8                 yulab.utils_0.2.4          
+ [21] nnet_7.3-20                 rappdirs_0.3.4             
+ [23] ipred_0.9-15                lava_1.9.2                 
+ [25] ggrepel_0.9.8               irlba_2.3.7                
+ [27] listenv_1.0.0               tidytree_0.4.7             
+ [29] parallelly_1.48.0           DelayedMatrixStats_1.34.0  
+ [31] codetools_0.2-20            DelayedArray_0.38.2        
+ [33] scuttle_1.22.0              tidyselect_1.2.1           
+ [35] shape_1.4.6.1               farver_2.1.2               
+ [37] ScaledMatrix_1.20.0         viridis_0.6.5              
+ [39] BiocFileCache_3.2.0         jsonlite_2.0.0             
+ [41] caret_7.0-1                 BiocNeighbors_2.6.0        
+ [43] decontam_1.32.0             mia_1.20.0                 
+ [45] survival_3.8-6              scater_1.40.2              
+ [47] iterators_1.0.14            foreach_1.5.2              
+ [49] tools_4.6.0                 treeio_1.36.1              
+ [51] Rcpp_1.1.1-1.1              glue_1.8.1                 
+ [53] prodlim_2026.03.11          gridExtra_2.3.1            
+ [55] SparseArray_1.12.2          mgcv_1.9-4                 
+ [57] withr_3.0.2                 BiocManager_1.30.27        
+ [59] fastmap_1.2.0               bluster_1.22.0             
+ [61] digest_0.6.39               rsvd_1.0.5                 
+ [63] timechange_0.4.0            R6_2.6.1                   
+ [65] RSQLite_3.53.3              ecodive_2.2.6              
+ [67] utf8_1.2.6                  recipes_1.3.3              
+ [69] DECIPHER_3.8.0              class_7.3-23               
+ [71] httr_1.4.8                  S4Arrays_1.12.0            
+ [73] ModelMetrics_1.2.2.2        pkgconfig_2.0.3            
+ [75] gtable_0.3.6                timeDate_4052.112          
+ [77] blob_1.3.0                  S7_0.2.2                   
+ [79] furrr_0.4.0                 scales_1.4.0               
+ [81] png_0.1-9                   snakecase_0.11.1           
+ [83] gower_1.0.2                 rstudioapi_0.19.0          
+ [85] tzdb_0.5.0                  reshape2_1.4.5             
+ [87] nlme_3.1-169                curl_7.1.0                 
+ [89] cachem_1.1.0                rsample_1.3.2              
+ [91] BiocVersion_3.23.1          parallel_4.6.0             
+ [93] vipor_0.4.7                 AnnotationDbi_1.74.0       
+ [95] pillar_1.11.1               grid_4.6.0                 
+ [97] vctrs_0.7.3                 BiocSingular_1.28.0        
+ [99] dbplyr_2.6.0                beachmat_2.28.0            
+[101] cluster_2.1.8.2             beeswarm_0.4.0             
+[103] cli_3.6.6                   compiler_4.6.0             
+[105] rlang_1.2.0                 crayon_1.5.3               
+[107] future.apply_1.20.2         plyr_1.8.9                 
+[109] fs_2.1.0                    ggbeeswarm_0.7.3           
+[111] stringi_1.8.7               viridisLite_0.4.3          
+[113] BiocParallel_1.46.0         lazyeval_0.2.3             
+[115] glmnet_5.0                  Matrix_1.7-5               
+[117] ExperimentHub_3.2.0         hms_1.1.4                  
+[119] sparseMatrixStats_1.24.0    bit64_4.8.2                
+[121] future_1.70.0               KEGGREST_1.52.2            
+[123] AnnotationHub_4.2.2         igraph_2.3.3               
+[125] memoise_2.0.1               bit_4.6.0                  
+[127] ape_5.8-1                  

@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="806" height="776">
+<rect width="100%" height="100%" fill="white"/>
+<text x="403.0" y="28" text-anchor="middle" font-family="Arial" font-size="18">Primary elastic-net directed domain-to-domain ROC AUC</text>
+<text x="20" y="52" font-family="Arial" font-size="11">Rows: training domain; columns: testing domain</text>
+<text x="222.0" y="122" text-anchor="end" transform="rotate(-45 222.0,122)" font-family="Arial" font-size="10">Frankel_US</text>
+<text x="286.0" y="122" text-anchor="end" transform="rotate(-45 286.0,122)" font-family="Arial" font-size="10">Gopalakrishnan_US</text>
+<text x="350.0" y="122" text-anchor="end" transform="rotate(-45 350.0,122)" font-family="Arial" font-size="10">Lee_Barcelona</text>
+<text x="414.0" y="122" text-anchor="end" transform="rotate(-45 414.0,122)" font-family="Arial" font-size="10">Lee_Leeds</text>
+<text x="478.0" y="122" text-anchor="end" transform="rotate(-45 478.0,122)" font-family="Arial" font-size="10">Lee_Manchester</text>
+<text x="542.0" y="122" text-anchor="end" transform="rotate(-45 542.0,122)" font-family="Arial" font-size="10">Lee_PRIMM_NL</text>
+<text x="606.0" y="122" text-anchor="end" transform="rotate(-45 606.0,122)" font-family="Arial" font-size="10">Lee_PRIMM_UK</text>
+<text x="670.0" y="122" text-anchor="end" transform="rotate(-45 670.0,122)" font-family="Arial" font-size="10">Matson_US</text>
+<text x="734.0" y="122" text-anchor="end" transform="rotate(-45 734.0,122)" font-family="Arial" font-size="10">Spencer_US</text>
+<text x="182" y="166.0" text-anchor="end" font-family="Arial" font-size="10">Frankel_US</text>
+<rect x="190" y="130" width="64" height="64" fill="rgb(245,245,245)" stroke="white"/>
+<text x="222.0" y="166.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">—</text>
+<rect x="254" y="130" width="64" height="64" fill="rgb(88,88,88)" stroke="white"/>
+<text x="286.0" y="166.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.63</text>
+<rect x="318" y="130" width="64" height="64" fill="rgb(242,242,242)" stroke="white"/>
+<text x="350.0" y="166.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.31</text>
+<rect x="382" y="130" width="64" height="64" fill="rgb(245,245,245)" stroke="white"/>
+<text x="414.0" y="166.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.16</text>
+<rect x="446" y="130" width="64" height="64" fill="rgb(153,153,153)" stroke="white"/>
+<text x="478.0" y="166.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.49</text>
+<rect x="510" y="130" width="64" height="64" fill="rgb(134,134,134)" stroke="white"/>
+<text x="542.0" y="166.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.53</text>
+<rect x="574" y="130" width="64" height="64" fill="rgb(156,156,156)" stroke="white"/>
+<text x="606.0" y="166.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.49</text>
+<rect x="638" y="130" width="64" height="64" fill="rgb(215,215,215)" stroke="white"/>
+<text x="670.0" y="166.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.36</text>
+<rect x="702" y="130" width="64" height="64" fill="rgb(135,135,135)" stroke="white"/>
+<text x="734.0" y="166.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.53</text>
+<text x="182" y="230.0" text-anchor="end" font-family="Arial" font-size="10">Gopalakrishnan_US</text>
+<rect x="190" y="194" width="64" height="64" fill="rgb(165,165,165)" stroke="white"/>
+<text x="222.0" y="230.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.47</text>
+<rect x="254" y="194" width="64" height="64" fill="rgb(245,245,245)" stroke="white"/>
+<text x="286.0" y="230.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">—</text>
+<rect x="318" y="194" width="64" height="64" fill="rgb(229,229,229)" stroke="white"/>
+<text x="350.0" y="230.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.33</text>
+<rect x="382" y="194" width="64" height="64" fill="rgb(221,221,221)" stroke="white"/>
+<text x="414.0" y="230.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.35</text>
+<rect x="446" y="194" width="64" height="64" fill="rgb(129,129,129)" stroke="white"/>
+<text x="478.0" y="230.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.54</text>
+<rect x="510" y="194" width="64" height="64" fill="rgb(55,55,55)" stroke="white"/>
+<text x="542.0" y="230.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.71</text>
+<rect x="574" y="194" width="64" height="64" fill="rgb(103,103,103)" stroke="white"/>
+<text x="606.0" y="230.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.60</text>
+<rect x="638" y="194" width="64" height="64" fill="rgb(125,125,125)" stroke="white"/>
+<text x="670.0" y="230.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.55</text>
+<rect x="702" y="194" width="64" height="64" fill="rgb(160,160,160)" stroke="white"/>
+<text x="734.0" y="230.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.48</text>
+<text x="182" y="294.0" text-anchor="end" font-family="Arial" font-size="10">Lee_Barcelona</text>
+<rect x="190" y="258" width="64" height="64" fill="rgb(225,225,225)" stroke="white"/>
+<text x="222.0" y="294.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.34</text>
+<rect x="254" y="258" width="64" height="64" fill="rgb(153,153,153)" stroke="white"/>
+<text x="286.0" y="294.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.49</text>
+<rect x="318" y="258" width="64" height="64" fill="rgb(245,245,245)" stroke="white"/>
+<text x="350.0" y="294.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">—</text>
+<rect x="382" y="258" width="64" height="64" fill="rgb(61,61,61)" stroke="white"/>
+<text x="414.0" y="294.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.69</text>
+<rect x="446" y="258" width="64" height="64" fill="rgb(120,120,120)" stroke="white"/>
+<text x="478.0" y="294.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.56</text>
+<rect x="510" y="258" width="64" height="64" fill="rgb(179,179,179)" stroke="white"/>
+<text x="542.0" y="294.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.44</text>
+<rect x="574" y="258" width="64" height="64" fill="rgb(126,126,126)" stroke="white"/>
+<text x="606.0" y="294.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.55</text>
+<rect x="638" y="258" width="64" height="64" fill="rgb(171,171,171)" stroke="white"/>
+<text x="670.0" y="294.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.46</text>
+<rect x="702" y="258" width="64" height="64" fill="rgb(156,156,156)" stroke="white"/>
+<text x="734.0" y="294.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.49</text>
+<text x="182" y="358.0" text-anchor="end" font-family="Arial" font-size="10">Lee_Leeds</text>
+<rect x="190" y="322" width="64" height="64" fill="rgb(207,207,207)" stroke="white"/>
+<text x="222.0" y="358.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.38</text>
+<rect x="254" y="322" width="64" height="64" fill="rgb(159,159,159)" stroke="white"/>
+<text x="286.0" y="358.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.48</text>
+<rect x="318" y="322" width="64" height="64" fill="rgb(55,55,55)" stroke="white"/>
+<text x="350.0" y="358.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.78</text>
+<rect x="382" y="322" width="64" height="64" fill="rgb(245,245,245)" stroke="white"/>
+<text x="414.0" y="358.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">—</text>
+<rect x="446" y="322" width="64" height="64" fill="rgb(153,153,153)" stroke="white"/>
+<text x="478.0" y="358.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.49</text>
+<rect x="510" y="322" width="64" height="64" fill="rgb(174,174,174)" stroke="white"/>
+<text x="542.0" y="358.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.45</text>
+<rect x="574" y="322" width="64" height="64" fill="rgb(137,137,137)" stroke="white"/>
+<text x="606.0" y="358.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.53</text>
+<rect x="638" y="322" width="64" height="64" fill="rgb(224,224,224)" stroke="white"/>
+<text x="670.0" y="358.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.35</text>
+<rect x="702" y="322" width="64" height="64" fill="rgb(162,162,162)" stroke="white"/>
+<text x="734.0" y="358.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.48</text>
+<text x="182" y="422.0" text-anchor="end" font-family="Arial" font-size="10">Lee_Manchester</text>
+<rect x="190" y="386" width="64" height="64" fill="rgb(179,179,179)" stroke="white"/>
+<text x="222.0" y="422.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.44</text>
+<rect x="254" y="386" width="64" height="64" fill="rgb(144,144,144)" stroke="white"/>
+<text x="286.0" y="422.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.51</text>
+<rect x="318" y="386" width="64" height="64" fill="rgb(245,245,245)" stroke="white"/>
+<text x="350.0" y="422.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.22</text>
+<rect x="382" y="386" width="64" height="64" fill="rgb(221,221,221)" stroke="white"/>
+<text x="414.0" y="422.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.35</text>
+<rect x="446" y="386" width="64" height="64" fill="rgb(245,245,245)" stroke="white"/>
+<text x="478.0" y="422.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">—</text>
+<rect x="510" y="386" width="64" height="64" fill="rgb(129,129,129)" stroke="white"/>
+<text x="542.0" y="422.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.54</text>
+<rect x="574" y="386" width="64" height="64" fill="rgb(94,94,94)" stroke="white"/>
+<text x="606.0" y="422.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.62</text>
+<rect x="638" y="386" width="64" height="64" fill="rgb(190,190,190)" stroke="white"/>
+<text x="670.0" y="422.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.42</text>
+<rect x="702" y="386" width="64" height="64" fill="rgb(170,170,170)" stroke="white"/>
+<text x="734.0" y="422.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.46</text>
+<text x="182" y="486.0" text-anchor="end" font-family="Arial" font-size="10">Lee_PRIMM_NL</text>
+<rect x="190" y="450" width="64" height="64" fill="rgb(167,167,167)" stroke="white"/>
+<text x="222.0" y="486.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.46</text>
+<rect x="254" y="450" width="64" height="64" fill="rgb(175,175,175)" stroke="white"/>
+<text x="286.0" y="486.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.45</text>
+<rect x="318" y="450" width="64" height="64" fill="rgb(124,124,124)" stroke="white"/>
+<text x="350.0" y="486.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.56</text>
+<rect x="382" y="450" width="64" height="64" fill="rgb(156,156,156)" stroke="white"/>
+<text x="414.0" y="486.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.49</text>
+<rect x="446" y="450" width="64" height="64" fill="rgb(238,238,238)" stroke="white"/>
+<text x="478.0" y="486.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.31</text>
+<rect x="510" y="450" width="64" height="64" fill="rgb(245,245,245)" stroke="white"/>
+<text x="542.0" y="486.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">—</text>
+<rect x="574" y="450" width="64" height="64" fill="rgb(117,117,117)" stroke="white"/>
+<text x="606.0" y="486.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.57</text>
+<rect x="638" y="450" width="64" height="64" fill="rgb(122,122,122)" stroke="white"/>
+<text x="670.0" y="486.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.56</text>
+<rect x="702" y="450" width="64" height="64" fill="rgb(143,143,143)" stroke="white"/>
+<text x="734.0" y="486.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.51</text>
+<text x="182" y="550.0" text-anchor="end" font-family="Arial" font-size="10">Lee_PRIMM_UK</text>
+<rect x="190" y="514" width="64" height="64" fill="rgb(191,191,191)" stroke="white"/>
+<text x="222.0" y="550.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.41</text>
+<rect x="254" y="514" width="64" height="64" fill="rgb(94,94,94)" stroke="white"/>
+<text x="286.0" y="550.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.62</text>
+<rect x="318" y="514" width="64" height="64" fill="rgb(190,190,190)" stroke="white"/>
+<text x="350.0" y="550.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.42</text>
+<rect x="382" y="514" width="64" height="64" fill="rgb(55,55,55)" stroke="white"/>
+<text x="414.0" y="550.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.74</text>
+<rect x="446" y="514" width="64" height="64" fill="rgb(229,229,229)" stroke="white"/>
+<text x="478.0" y="550.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.33</text>
+<rect x="510" y="514" width="64" height="64" fill="rgb(74,74,74)" stroke="white"/>
+<text x="542.0" y="550.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.66</text>
+<rect x="574" y="514" width="64" height="64" fill="rgb(245,245,245)" stroke="white"/>
+<text x="606.0" y="550.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">—</text>
+<rect x="638" y="514" width="64" height="64" fill="rgb(143,143,143)" stroke="white"/>
+<text x="670.0" y="550.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.51</text>
+<rect x="702" y="514" width="64" height="64" fill="rgb(128,128,128)" stroke="white"/>
+<text x="734.0" y="550.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.55</text>
+<text x="182" y="614.0" text-anchor="end" font-family="Arial" font-size="10">Matson_US</text>
+<rect x="190" y="578" width="64" height="64" fill="rgb(137,137,137)" stroke="white"/>
+<text x="222.0" y="614.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.53</text>
+<rect x="254" y="578" width="64" height="64" fill="rgb(70,70,70)" stroke="white"/>
+<text x="286.0" y="614.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.67</text>
+<rect x="318" y="578" width="64" height="64" fill="rgb(216,216,216)" stroke="white"/>
+<text x="350.0" y="614.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.36</text>
+<rect x="382" y="578" width="64" height="64" fill="rgb(55,55,55)" stroke="white"/>
+<text x="414.0" y="614.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.74</text>
+<rect x="446" y="578" width="64" height="64" fill="rgb(223,223,223)" stroke="white"/>
+<text x="478.0" y="614.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.35</text>
+<rect x="510" y="578" width="64" height="64" fill="rgb(212,212,212)" stroke="white"/>
+<text x="542.0" y="614.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.37</text>
+<rect x="574" y="578" width="64" height="64" fill="rgb(153,153,153)" stroke="white"/>
+<text x="606.0" y="614.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.49</text>
+<rect x="638" y="578" width="64" height="64" fill="rgb(245,245,245)" stroke="white"/>
+<text x="670.0" y="614.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">—</text>
+<rect x="702" y="578" width="64" height="64" fill="rgb(161,161,161)" stroke="white"/>
+<text x="734.0" y="614.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.48</text>
+<text x="182" y="678.0" text-anchor="end" font-family="Arial" font-size="10">Spencer_US</text>
+<rect x="190" y="642" width="64" height="64" fill="rgb(178,178,178)" stroke="white"/>
+<text x="222.0" y="678.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.44</text>
+<rect x="254" y="642" width="64" height="64" fill="rgb(190,190,190)" stroke="white"/>
+<text x="286.0" y="678.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.42</text>
+<rect x="318" y="642" width="64" height="64" fill="rgb(55,55,55)" stroke="white"/>
+<text x="350.0" y="678.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.75</text>
+<rect x="382" y="642" width="64" height="64" fill="rgb(126,126,126)" stroke="white"/>
+<text x="414.0" y="678.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.55</text>
+<rect x="446" y="642" width="64" height="64" fill="rgb(232,232,232)" stroke="white"/>
+<text x="478.0" y="678.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.33</text>
+<rect x="510" y="642" width="64" height="64" fill="rgb(147,147,147)" stroke="white"/>
+<text x="542.0" y="678.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.51</text>
+<rect x="574" y="642" width="64" height="64" fill="rgb(183,183,183)" stroke="white"/>
+<text x="606.0" y="678.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">0.43</text>
+<rect x="638" y="642" width="64" height="64" fill="rgb(101,101,101)" stroke="white"/>
+<text x="670.0" y="678.0" text-anchor="middle" font-family="Arial" font-size="11" fill="white">0.60</text>
+<rect x="702" y="642" width="64" height="64" fill="rgb(245,245,245)" stroke="white"/>
+<text x="734.0" y="678.0" text-anchor="middle" font-family="Arial" font-size="11" fill="black">—</text>
+</svg>

@@ -1,0 +1,33 @@
+{
+  "step": "Step10.5C",
+  "version": "v1",
+  "status": "PASS_STEP10_5C_COMPLETED",
+  "input_n": 363,
+  "species_features": 2205,
+  "scenarios": [
+    "PRIMARY",
+    "S1_EXCLUDE_BCN12",
+    "S2_BCN12_AS_NR",
+    "S3_EXCLUDE_LEE_SITES"
+  ],
+  "primary_effect": "Domain-level Hedges g of CLR abundance (Responder minus Non-responder)",
+  "secondary_effect": "Domain-level log odds ratio of species presence",
+  "meta_model": "REML random effects with modified Hartung-Knapp confidence intervals",
+  "study_family_sensitivity": "Patient-level effects recalculated within five study families, followed by random-effects meta-analysis",
+  "primary_species_meta_analyzed": 554,
+  "primary_family_meta_analyzed": 406,
+  "primary_domain_fdr_q_lt_0_05": 0,
+  "primary_domain_fdr_q_lt_0_10": 0,
+  "primary_classification_counts": {
+    "OTHER_OR_INSUFFICIENT": 462,
+    "DOMAIN_SPECIFIC": 10,
+    "STRONG_DIRECTION_REVERSAL": 7,
+    "CONSISTENT_NONSIGNIFICANT": 75
+  },
+  "robust_consistent_candidates": 0,
+  "direction_reversal_candidates": 7,
+  "domain_specific_candidates": 10,
+  "high_heterogeneity_candidates": 0,
+  "interpretation_gate": "REQUIRES_FINAL_SCIENTIFIC_REVIEW",
+  "runtime_seconds": 15.26
+}

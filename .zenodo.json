@@ -1,0 +1,49 @@
+{
+  "creators": [
+    {
+      "name": "Li, Zengzhi",
+      "affiliation": "Department of Surgery, Guang’an Hospital of Traditional Chinese Medicine, Guang’an, Sichuan, China"
+    },
+    {
+      "name": "Liu, Yangming",
+      "affiliation": "Department of Obstetrics, The Affiliated Banan Hospital of Chongqing Medical University (People’s Hospital of Banan District), Chongqing, China"
+    },
+    {
+      "name": "Liang, Po",
+      "affiliation": "Department of General Practice, People’s Hospital of Chongqing Hechuan, Chongqing, China"
+    },
+    {
+      "name": "Wei, Zhangjun",
+      "affiliation": "Department of Hepatobiliary Surgery, Shapingba Hospital Affiliated to Chongqing University (Shapingba District People’s Hospital of Chongqing), Chongqing, China"
+    },
+    {
+      "name": "Deng, Kai",
+      "affiliation": "Department of General Surgery, The First Affiliated Hospital of Chongqing Medical and Pharmaceutical College, Chongqing, China"
+    },
+    {
+      "name": "Cheng, Zhuoren",
+      "affiliation": "Department of Hepatobiliary Surgery, Shapingba Hospital Affiliated to Chongqing University (Shapingba District People’s Hospital of Chongqing), Chongqing, China"
+    },
+    {
+      "name": "Che, Ping",
+      "affiliation": "Department of Hepatobiliary Surgery, Shapingba Hospital Affiliated to Chongqing University (Shapingba District People’s Hospital of Chongqing), Chongqing, China",
+      "orcid": "0009-0007-4037-9982"
+    }
+  ],
+  "title": "Reproducibility release for \"Validation hierarchy and directed transfer reveal limited gut microbiome signature transportability across melanoma immunotherapy cohorts\"",
+  "version": "1.0.0",
+  "description": "Version-locked reproducibility companion for the associated melanoma immunotherapy gut-microbiome transportability study. The archive contains privacy-safe derived inputs, frozen results, reproducibility code, environment specifications, and figure-source materials. Analysis code is licensed under MIT. Project-created derived tables, figures, and documentation are licensed under CC BY 4.0. Raw public sequencing data are not redistributed or relicensed and remain subject to the original provider terms.",
+  "access_right": "open",
+  "keywords": [
+    "melanoma",
+    "immune checkpoint inhibitors",
+    "gut microbiome",
+    "shotgun metagenomics",
+    "transportability",
+    "external validation",
+    "domain adaptation"
+  ],
+  "license": "mit",
+  "upload_type": "software",
+  "language": "eng"
+}

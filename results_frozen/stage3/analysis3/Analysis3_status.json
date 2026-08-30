@@ -1,0 +1,47 @@
+{
+  "analysis": "Analysis 3: feature-cap, source-n>=25, and source-size-matched sensitivity",
+  "status": "PASS_COMPLETED",
+  "matrix": "/mnt/data/melanoma_transportability_review/repo_v1/melanoma_microbiome_transportability/data/derived/assembled_species_matrix.tsv",
+  "matrix_sha256": "fb520df3b2d65c4f41eb1f03eb3260ac0a79d3172d519f689d22c95f527f3e2c",
+  "n_patients": 363,
+  "n_domains": 9,
+  "domain_counts": {
+    "Frankel_US": 39,
+    "Gopalakrishnan_US": 25,
+    "Lee_Barcelona": 12,
+    "Lee_Leeds": 18,
+    "Lee_Manchester": 25,
+    "Lee_PRIMM_NL": 55,
+    "Lee_PRIMM_UK": 54,
+    "Matson_US": 38,
+    "Spencer_US": 97
+  },
+  "eligible_source_domains_n_ge_25": [
+    "Frankel_US",
+    "Gopalakrishnan_US",
+    "Lee_Manchester",
+    "Lee_PRIMM_NL",
+    "Lee_PRIMM_UK",
+    "Matson_US",
+    "Spencer_US"
+  ],
+  "feature_caps": [
+    10,
+    25,
+    50,
+    500
+  ],
+  "downsample_n": 25,
+  "downsample_repeats": 100,
+  "model": {
+    "type": "elastic_net_logistic_regression",
+    "C": 0.2,
+    "l1_ratio": 0.75,
+    "class_weight": "balanced"
+  },
+  "reproduction_check_cap500": {
+    "n_pairs": 72,
+    "max_absolute_auc_difference_vs_frozen": 0.0,
+    "mean_absolute_auc_difference_vs_frozen": 0.0
+  }
+}

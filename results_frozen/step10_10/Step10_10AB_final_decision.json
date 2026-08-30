@@ -1,0 +1,26 @@
+{
+  "step": "Step10.10A-B",
+  "status": "PASS",
+  "bias_correction_conclusion": "No robust AUC improvement; target percentile delta CIs crossed zero and CORAL reduced discrimination.",
+  "endpoint_conclusion": "Endpoint-class matching did not detectably explain directed transfer AUC; explicit RECIST recoding was concordant among evaluable Manchester/Barcelona records.",
+  "endpoint_qap": {
+    "observed_same_minus_cross_mean_auc": 0.04078843525398901,
+    "same_endpoint_pairs": 44.0,
+    "cross_endpoint_pairs": 28.0,
+    "same_endpoint_mean_auc": 0.5049835867759422,
+    "cross_endpoint_mean_auc": 0.46419515152195323,
+    "permutation_n": 10000.0,
+    "qap_two_sided_p": 0.1655834416558344,
+    "qap_one_sided_p_same_higher": 0.08339166083391661,
+    "null_mean": 0.00020281782433438858,
+    "null_sd": 0.03305780423755012
+  },
+  "strict_orr_audit": {
+    "domains": "Lee_Barcelona + Lee_Manchester",
+    "original_n": 37,
+    "strict_ORR_evaluable_n": 32,
+    "excluded_stable_disease_n": 4,
+    "excluded_not_applicable_n": 1,
+    "discordant_labels_among_strict_evaluable_n": 0
+  }
+}
