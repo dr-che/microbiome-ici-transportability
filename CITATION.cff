@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 title: "Reproducibility release for \"Validation hierarchy and directed transfer reveal limited gut microbiome signature transportability across melanoma immunotherapy cohorts\""
 version: 1.0.0
+doi: "10.5281/zenodo.22185052"
+date-released: 2026-08-30
 license: MIT
 type: software
 abstract: >-

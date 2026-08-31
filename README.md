@@ -87,4 +87,4 @@ This repository snapshot was resynchronized to the final manuscript-facing evide
 - Project-created derived tables, figures, and documentation: CC BY 4.0 (LICENSE_DERIVED_MATERIALS.md).
 - Raw public sequencing data are not redistributed or relicensed; original provider terms continue to apply.
 - Citation metadata: CITATION.cff and .zenodo.json.
-- Zenodo DOI: not assigned yet. Do not cite a DOI until the GitHub v1.0.0 release has been archived and the real Zenodo record resolves.
+- Zenodo DOI: [10.5281/zenodo.22185052](https://doi.org/10.5281/zenodo.22185052).
